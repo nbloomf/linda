@@ -1,0 +1,28 @@
+Name:           linda
+Version:        0.0
+Cabal-Version:  >= 1.2
+License:        AllRightsReserved
+Author:         Nathan Bloomfield
+Synopsis:       Tools for extracting grammatical
+                words from a corpus
+Build-Type:     Simple
+
+Executable get-qualifiers
+  main-is:        Linda/Qualifiers/Main.hs
+  hs-source-dirs: src/
+  build-depends:  base
+
+Executable get-adjectives
+  main-is:        Linda/Adjectives/Main.hs
+  hs-source-dirs: src/
+  build-depends:  base
+
+Executable get-regular-verbs
+  main-is:        Linda/RegularVerbs/Main.hs
+  hs-source-dirs: src/
+  build-depends:  base
+
+Executable get-nouns
+  main-is:        Linda/Nouns/Main.hs
+  hs-source-dirs: src/
+  build-depends:  base

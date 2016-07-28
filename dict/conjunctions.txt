@@ -1,0 +1,16 @@
+^after$
+^although$
+^and$
+^because$
+^before$
+^but$
+^for$
+^nor$
+^or$
+^since$
+^so$
+^where$
+^whereas$
+^wherever$
+^while$
+^yet$

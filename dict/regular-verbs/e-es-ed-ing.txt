@@ -67,6 +67,7 @@
 ^desir(e|es|ed|ing)$
 ^determin(e|es|ed|ing)$
 ^dictat(e|es|ed|ing)$
+^differentiat(e|es|ed|ing)$
 ^din(e|es|ed|ing)$
 ^disengag(e|es|ed|ing)$
 ^dislik(e|es|ed|ing)$
@@ -79,6 +80,7 @@
 ^emphasiz(e|es|ed|ing)$
 ^encourag(e|es|ed|ing)$
 ^endur(e|es|ed|ing)$
+^ensur(e|es|ed|ing)$
 ^enumerat(e|es|ed|ing)$
 ^envelop(e|es|ed|ing)$
 ^escap(e|es|ed|ing)$

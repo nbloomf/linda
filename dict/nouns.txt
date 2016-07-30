@@ -1,3 +1,4 @@
+^adjustment(s|'s|s')?$
 ^advantage(s|'s|s')?$
 ^algorithm(s|'s|s')?$
 ^analogue(s|'s|s')?$
@@ -7,6 +8,7 @@
 ^antiquit(y|ies|y's|ies')$
 ^appendi(x|ces|x's|ces')$
 ^application(s|'s|s')?$
+^arrow(s|'s|s')?$
 ^aspect(s|'s|s')?$
 ^assertion(s|'s|s')?$
 ^assumption(s|'s|s')?$
@@ -20,6 +22,7 @@
 ^categor(y|ies|y's|ies')$
 ^chain(s|'s|s')?$
 ^choice(s|'s|s')?$
+^circle(s|'s|s')?$
 ^class(es|'|es')$
 ^classification(s|'s|s')?$
 ^coast(s|'s|s')?$
@@ -30,17 +33,29 @@
 ^color(s|'s|s')?$
 ^column(s|'s|s')?$
 ^combination(s|'s|s')?$
+^computer(s|'s|s')?$
 ^concept(s|'s|s')?$
 ^condition(s|'s|s')?$
 ^congruence(s|'s|s')?$
 ^constant(s|'s|s')?$
 ^constraint(s|'s|s')?$
 ^construction(s|'s|s')?$
+^context(s|'s|s')?$
 ^corollar(y|ies|y's|ies')$
+^counterexample(s|'s|s')?$
+^counterpart(s|'s|s')?$
+^definition(s|'s|s')?$
+^determinant(s|'s|s')?$
+^diagonal(s|'s|s')?$
+^element(s|'s|s')?$
+^endpoint(s|'s|s')?$
 ^example(s|'s|s')?$
 ^exponent(s|'s|s')?$
 ^expression(s|'s|s')?$
 ^extension(s|'s|s')?$
+^famil(y|ies|y's|ies')$
+^field(s|'s|s')?$
+^figure(s|'s|s')?$
 ^flavor(s|'s|s')?$
 ^gap(s|'s|s')?$
 ^group(s|'s|s')?$
@@ -49,6 +64,8 @@
 ^mapping(s|'s|s')?$
 ^mathematician(s|'s|s')?$
 ^method(s|'s|s')?$
+^midpoint(s|'s|s')?$
+^model(s|'s|s')?$
 ^moment(s|'s|s')?$
 ^motivation(s|'s|s')?$
 ^multiple(s|'s|s')?$
@@ -91,6 +108,7 @@
 ^symbol(s|'s|s')?$
 ^system(s|'s|s')?$
 ^table(s|'s|s')?$
+^tangent(s|'s|s')?$
 ^technique(s|'s|s')?$
 ^technolog(y|ies|y's|ies')$
 ^term(s|'s|s')?$

@@ -7,6 +7,7 @@ cat | \
   sed "s/\\\\ref{[a-z0-9:\-]*}//g" | \
   sed "s/\\\\eref{[a-z0-9:\-]*}//g" | \
   sed "s/\\\\propref{[a-z0-9:\-]*}//g" | \
+  sed "s/\\\\input{[a-z0-9:\./\-]*}//g" | \
   sed "s/\\\\paref{[a-z0-9:\-]*}//g" | \
   sed "s/\\\\autoref{[a-z0-9:\-]*}//g" | \
   sed "s/\\\\sref{[a-z0-9:-]*}{[a-z0-9:-]*}//g" | \

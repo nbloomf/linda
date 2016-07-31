@@ -205,6 +205,7 @@
 ^inspect(s|ed|ing)?$
 ^insult(s|ed|ing)?$
 ^intend(s|ed|ing)?$
+^interact(s|ed|ing)?$
 ^interest(s|ed|ing)?$
 ^interpret(s|ed|ing)?$
 ^invent(s|ed|ing)?$

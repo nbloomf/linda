@@ -1,0 +1,15 @@
+^bolzano('s)?$
+^bool(e|ean)$
+^cartesian$
+^diaphant(us|ine)$
+^emmy$
+^eratosthenes$
+^euclid('s|ean)?$
+^fano('s)?$
+^fermat('s)?$
+^gauss('|ian)?$
+^hensel('s)?$
+^hilbert('s)?$
+^thales(')?$
+^wilson('s)?$
+^zorn('s)?$

@@ -13,4 +13,5 @@ cat $1 | \
   egrep -v -f ~/code/linda/dict/qualifiers.txt | \
   egrep -v -f ~/code/linda/dict/pronouns.txt | \
   egrep -v -f ~/code/linda/dict/prepositions.txt | \
+  egrep -v -f ~/code/linda/dict/names.txt | \
   cat

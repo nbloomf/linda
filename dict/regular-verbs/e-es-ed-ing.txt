@@ -58,6 +58,7 @@
 ^conceiv(e|es|ed|ing)$
 ^conclud(e|es|ed|ing)$
 ^confin(e|es|ed|ing)$
+^conflat(e|es|ed|ing)$
 ^conjectur(e|es|ed|ing)$
 ^consum(e|es|ed|ing)$
 ^continu(e|es|ed|ing)$
@@ -193,6 +194,7 @@
 ^originat(e|es|ed|ing)$
 ^outlin(e|es|ed|ing)$
 ^outrag(e|es|ed|ing)$
+^overstat(e|es|ed|ing)$
 ^ow(e|es|ed|ing)$
 ^pac(e|es|ed|ing)$
 ^parad(e|es|ed|ing)$
@@ -302,6 +304,7 @@
 ^trad(e|es|ed|ing)$
 ^translat(e|es|ed|ing)$
 ^typ(e|es|ed|ing)$
+^understat(e|es|ed|ing)$
 ^unit(e|es|ed|ing)$
 ^urg(e|es|ed|ing)$
 ^us(e|es|ed|ing)$

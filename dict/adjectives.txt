@@ -1,3 +1,4 @@
+^able(r|st)?$
 ^black(er|est)?$
 ^blind(er|est)?$
 ^bright(er|est)?$
@@ -31,6 +32,7 @@
 ^lovel(y|ier|iest)$
 ^low(er|est)?$
 ^luck(y|ier|iest)$
+^mess(y|ier|iest)$
 ^might(y|ier|iest)$
 ^new(er|est)?$
 ^noble(r|st)?$

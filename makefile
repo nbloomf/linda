@@ -6,6 +6,7 @@ tidy: FORCE
 	$(call tidyup,dict/conjunctions.txt)
 	$(call tidyup,dict/irregular-verbs.txt)
 	$(call tidyup,dict/nouns.txt)
+	$(call tidyup,dict/names.txt)
 	$(call tidyup,dict/prepositions.txt)
 	$(call tidyup,dict/pronouns.txt)
 	$(call tidyup,dict/qualifiers.txt)

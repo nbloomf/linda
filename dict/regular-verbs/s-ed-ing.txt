@@ -400,6 +400,7 @@
 ^talk(s|ed|ing)?$
 ^taper(s|ed|ing)?$
 ^temper(s|ed|ing)?$
+^tend(s|ed|ing)?$
 ^thank(s|ed|ing)?$
 ^thicken(s|ed|ing)?$
 ^thread(s|ed|ing)?$

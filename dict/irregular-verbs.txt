@@ -26,6 +26,7 @@
 ^lose|loses|lost|losing$
 ^make|makes|made|making$
 ^mean|means|meant|meaning$
+^meet|meets|met|meeting$
 ^run|runs|ran|running$
 ^seek|seeks|sought|seeking$
 ^see|sees|saw|seeing|seen$

@@ -17,6 +17,7 @@
 ^jet(s|ted|ting)?$
 ^knot(s|ted|ting)?$
 ^l(ie|ies|ied|ying)$
+^map(s|ped|ping)?$
 ^peg(s|ged|ging)?$
 ^permit(s|ted|ting)?$
 ^pet(s|ted|ting)?$

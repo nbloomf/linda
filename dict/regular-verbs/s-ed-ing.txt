@@ -53,6 +53,7 @@
 ^compliment(s|ed|ing)?$
 ^concern(s|ed|ing)?$
 ^confirm(s|ed|ing)?$
+^connect(s|ed|ing)?$
 ^consider(s|ed|ing)?$
 ^consist(s|ed|ing)?$
 ^construct(s|ed|ing)?$
@@ -61,6 +62,7 @@
 ^contradict(s|ed|ing)?$
 ^convey(s|ed|ing)?$
 ^cook(s|ed|ing)?$
+^correct(s|ed|ing)?$
 ^correspond(s|ed|ing)?$
 ^cough(s|ed|ing)?$
 ^count(s|ed|ing)?$

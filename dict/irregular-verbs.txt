@@ -21,6 +21,7 @@
 ^know|knows|knew|knowing|known$
 ^lead|leads|led|leading$
 ^leave|leaves|left|leaving$
+^lose|loses|lost|losing$
 ^make|makes|made|making$
 ^mean|means|meant|meaning$
 ^run|runs|ran|running$

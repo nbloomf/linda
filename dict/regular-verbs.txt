@@ -1,4 +1,7 @@
+^admit(s|ted|ting)?$
 ^bog(s|ged|ging)?$
+^chat(s|ted|ting)?$
+^commit(s|ted|ting)?$
 ^drag(s|ged|ging)?$
 ^drop(s|ped|ping)?$
 ^drug(s|ged|ging)?$
@@ -20,6 +23,7 @@
 ^plug(s|ged|ging)?$
 ^prefer(s|red|ring)?$
 ^refer(s|red|ring)?$
+^regret(s|ted|ting)?$
 ^sa(y|ys|id|ying)$
 ^shrug(s|ged|ging)?$
 ^shun(s|ned|ning)?$
@@ -27,3 +31,4 @@
 ^skin(s|ned|ning)?$
 ^skip(s|ped|ping)?$
 ^stop(s|ped|ping)?$
+^submit(s|ted|ting)?$

@@ -1,6 +1,7 @@
 ^address(es|ed|ing)?$
 ^approach(es|ed|ing)?$
 ^arch(es|ed|ing)?$
+^attach(es|ed|ing)?$
 ^blush(es|ed|ing)?$
 ^box(es|ed|ing)?$
 ^branch(es|ed|ing)?$
@@ -12,6 +13,7 @@
 ^crunch(es|ed|ing)?$
 ^dash(es|ed|ing)?$
 ^depress(es|ed|ing)?$
+^detach(es|ed|ing)?$
 ^distinguish(es|ed|ing)?$
 ^dress(es|ed|ing)?$
 ^echo(es|ed|ing)?$
@@ -24,6 +26,7 @@
 ^impress(es|ed|ing)?$
 ^index(es|ed|ing)?$
 ^lash(es|ed|ing)?$
+^lunch(es|ed|ing)?$
 ^march(es|ed|ing)?$
 ^mass(es|ed|ing)?$
 ^match(es|ed|ing)?$
@@ -40,10 +43,12 @@
 ^reproach(es|ed|ing)?$
 ^rush(es|ed|ing)?$
 ^scratch(es|ed|ing)?$
+^search(es|ed|ing)?$
 ^snatch(es|ed|ing)?$
 ^stretch(es|ed|ing)?$
 ^tax(es|ed|ing)?$
 ^toss(es|ed|ing)?$
 ^touch(es|ed|ing)?$
+^twitch(es|ed|ing)?$
 ^watch(es|ed|ing)?$
 ^witness(es|ed|ing)?$

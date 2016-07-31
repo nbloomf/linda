@@ -198,6 +198,7 @@
 ^pack(s|ed|ing)?$
 ^paint(s|ed|ing)?$
 ^pant(s|ed|ing)?$
+^partition(s|ed|ing)?$
 ^part(s|ed|ing)?$
 ^paw(s|ed|ing)?$
 ^peak(s|ed|ing)?$

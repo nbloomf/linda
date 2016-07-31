@@ -19,8 +19,10 @@
 ^hold|holds|held|holding$
 ^keep|keeps|kept|keeping$
 ^know|knows|knew|knowing|known$
+^lay|lays|laid|laying$
 ^lead|leads|led|leading$
 ^leave|leaves|left|leaving$
+^lie|lay|lain|lying$
 ^lose|loses|lost|losing$
 ^make|makes|made|making$
 ^mean|means|meant|meaning$

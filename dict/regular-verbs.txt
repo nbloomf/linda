@@ -18,8 +18,10 @@
 ^knot(s|ted|ting)?$
 ^l(ie|ies|ied|ying)$
 ^peg(s|ged|ging)?$
+^permit(s|ted|ting)?$
 ^pet(s|ted|ting)?$
 ^plan(s|ned|ning)?$
+^plot(s|ted|ting)?$
 ^plug(s|ged|ging)?$
 ^prefer(s|red|ring)?$
 ^refer(s|red|ring)?$

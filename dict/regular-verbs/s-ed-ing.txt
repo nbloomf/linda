@@ -8,6 +8,7 @@
 ^adjoin(s|ed|ing)?$
 ^adopt(s|ed|ing)?$
 ^affect(s|ed|ing)?$
+^affirm(s|ed|ing)?$
 ^afflict(s|ed|ing)?$
 ^afford(s|ed|ing)?$
 ^aid(s|ed|ing)?$
@@ -39,6 +40,7 @@
 ^belong(s|ed|ing)?$
 ^blanket(s|ed|ing)?$
 ^blast(s|ed|ing)?$
+^blend(s|ed|ing)?$
 ^block(s|ed|ing)?$
 ^blunder(s|ed|ing)?$
 ^bolt(s|ed|ing)?$
@@ -59,6 +61,7 @@
 ^carpet(s|ed|ing)?$
 ^cart(s|ed|ing)?$
 ^chant(s|ed|ing)?$
+^chatter(s|ed|ing)?$
 ^check(s|ed|ing)?$
 ^cheer(s|ed|ing)?$
 ^chew(s|ed|ing)?$
@@ -76,6 +79,7 @@
 ^command(s|ed|ing)?$
 ^complain(s|ed|ing)?$
 ^compliment(s|ed|ing)?$
+^comprehend(s|ed|ing)?$
 ^concern(s|ed|ing)?$
 ^conduct(s|ed|ing)?$
 ^confirm(s|ed|ing)?$
@@ -126,6 +130,7 @@
 ^enjoy(s|ed|ing)?$
 ^enlighten(s|ed|ing)?$
 ^enter(s|ed|ing)?$
+^entertain(s|ed|ing)?$
 ^entrust(s|ed|ing)?$
 ^exceed(s|ed|ing)?$
 ^exhibit(s|ed|ing)?$

@@ -25,6 +25,7 @@
 ^balanc(e|es|ed|ing)$
 ^bas(e|es|ed|ing)$
 ^bath(e|es|ed|ing)$
+^blam(e|es|ed|ing)$
 ^blaz(e|es|ed|ing)$
 ^bor(e|es|ed|ing)$
 ^brac(e|es|ed|ing)$
@@ -54,11 +55,13 @@
 ^complet(e|es|ed|ing)$
 ^complicat(e|es|ed|ing)$
 ^comput(e|es|ed|ing)$
+^conceiv(e|es|ed|ing)$
 ^conclud(e|es|ed|ing)$
 ^confin(e|es|ed|ing)$
 ^conjectur(e|es|ed|ing)$
 ^consum(e|es|ed|ing)$
 ^continu(e|es|ed|ing)$
+^contribut(e|es|ed|ing)$
 ^converg(e|es|ed|ing)$
 ^convinc(e|es|ed|ing)$
 ^creat(e|es|ed|ing)$
@@ -74,6 +77,7 @@
 ^decompos(e|es|ed|ing)$
 ^deduc(e|es|ed|ing)$
 ^defin(e|es|ed|ing)$
+^degrad(e|es|ed|ing)$
 ^denot(e|es|ed|ing)$
 ^depriv(e|es|ed|ing)$
 ^deriv(e|es|ed|ing)$
@@ -124,6 +128,7 @@
 ^forc(e|es|ed|ing)$
 ^forg(e|es|ed|ing)$
 ^formaliz(e|es|ed|ing)$
+^fram(e|es|ed|ing)$
 ^fring(e|es|ed|ing)$
 ^fum(e|es|ed|ing)$
 ^gaz(e|es|ed|ing)$
@@ -148,6 +153,7 @@
 ^imitat(e|es|ed|ing)$
 ^impos(e|es|ed|ing)$
 ^improv(e|es|ed|ing)$
+^inclin(e|es|ed|ing)$
 ^includ(e|es|ed|ing)$
 ^increas(e|es|ed|ing)$
 ^indicat(e|es|ed|ing)$
@@ -248,6 +254,7 @@
 ^restor(e|es|ed|ing)$
 ^retir(e|es|ed|ing)$
 ^revers(e|es|ed|ing)$
+^reviv(e|es|ed|ing)$
 ^revolv(e|es|ed|ing)$
 ^rous(e|es|ed|ing)$
 ^salut(e|es|ed|ing)$

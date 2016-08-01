@@ -79,6 +79,7 @@
 ^deduc(e|es|ed|ing)$
 ^defin(e|es|ed|ing)$
 ^degrad(e|es|ed|ing)$
+^demonstrat(e|es|ed|ing)$
 ^denot(e|es|ed|ing)$
 ^depriv(e|es|ed|ing)$
 ^deriv(e|es|ed|ing)$

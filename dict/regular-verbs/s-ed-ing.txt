@@ -33,6 +33,7 @@
 ^await(s|ed|ing)?$
 ^awaken(s|ed|ing)?$
 ^back(s|ed|ing)?$
+^backtrack(s|ed|ing)?$
 ^band(s|ed|ing)?$
 ^bang(s|ed|ing)?$
 ^bank(s|ed|ing)?$
@@ -60,6 +61,7 @@
 ^caper(s|ed|ing)?$
 ^carpet(s|ed|ing)?$
 ^cart(s|ed|ing)?$
+^center(s|ed|ing)?$
 ^chant(s|ed|ing)?$
 ^chatter(s|ed|ing)?$
 ^check(s|ed|ing)?$
@@ -129,6 +131,7 @@
 ^end(s|ed|ing)?$
 ^enjoy(s|ed|ing)?$
 ^enlighten(s|ed|ing)?$
+^entail(s|ed|ing)?$
 ^enter(s|ed|ing)?$
 ^entertain(s|ed|ing)?$
 ^entrust(s|ed|ing)?$

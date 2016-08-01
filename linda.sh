@@ -9,6 +9,7 @@ cat $1 | \
   egrep -v -f ~/code/linda/dict/regular-verbs/y-ies-ied-ying.txt | \
   egrep -v -f ~/code/linda/dict/irregular-verbs.txt | \
   egrep -v -f ~/code/linda/dict/adjectives.txt | \
+  egrep -v -f ~/code/linda/dict/adverbs.txt | \
   egrep -v -f ~/code/linda/dict/conjunctions.txt | \
   egrep -v -f ~/code/linda/dict/qualifiers.txt | \
   egrep -v -f ~/code/linda/dict/pronouns.txt | \

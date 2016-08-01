@@ -3,6 +3,7 @@ all: FORCE
 
 tidy: FORCE
 	$(call tidyup,dict/adjectives.txt)
+	$(call tidyup,dict/adverbs.txt)
 	$(call tidyup,dict/conjunctions.txt)
 	$(call tidyup,dict/irregular-verbs.txt)
 	$(call tidyup,dict/nouns.txt)

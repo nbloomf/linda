@@ -10,11 +10,13 @@
 ^active(ly)?$
 ^actual(ly)?$
 ^acute(ly)?$
+^additional(ly)?$
 ^adroit(ly)?$
 ^advantageous(ly)?$
 ^affectionate(ly)?$
 ^affirmative(ly)?$
 ^aimless(ly)?$
+^alternate(ly)?$
 ^amusing(ly)?$
 ^anxious(ly)?$
 ^apparent(ly)?$
@@ -38,6 +40,7 @@
 ^chief(ly)?$
 ^circumspect(ly)?$
 ^civil(ly)?$
+^classical(ly)?$
 ^clean(ly)?$
 ^clear(ly)?$
 ^clever(ly)?$
@@ -62,6 +65,7 @@
 ^continual(ly)?$
 ^cool(ly)?$
 ^cordial(ly)?$
+^crucial(ly)?$
 ^cruel(ly)?$
 ^dead(ly)?$
 ^dear(ly)?$
@@ -77,8 +81,10 @@
 ^diligent(ly)?$
 ^dim(ly)?$
 ^direct(ly)?$
+^disgusting(ly)?$
 ^distracted(ly)?$
 ^divine(ly)?$
+^drastic(ally)?$
 ^dreadful(ly)?$
 ^eager(ly)?$
 ^earnest(ly)?$
@@ -93,6 +99,7 @@
 ^evident(ly)?$
 ^exact(ly)?$
 ^exceptional(ly)?$
+^excessive(ly)?$
 ^exclusive(ly)?$
 ^expectant(ly)?$
 ^explicit(ly)?$
@@ -231,6 +238,7 @@
 ^obstinate(ly)?$
 ^obvious(ly)?$
 ^occasional(ly)?$
+^odd(ly)?$
 ^offensive(ly)?$
 ^official(ly)?$
 ^ominous(ly)?$
@@ -281,6 +289,7 @@
 ^punctual(ly)?$
 ^pure(ly)?$
 ^quadratic(ally)?$
+^qualitative(ly)?$
 ^quick(ly)?$
 ^rational(ly)?$
 ^real(ly)?$
@@ -288,6 +297,7 @@
 ^recent(ly)?$
 ^recursive(ly)?$
 ^reflexive(ly)?$
+^regular(ly)?$
 ^relative(ly)?$
 ^repeated(ly)?$
 ^resentful(ly)?$

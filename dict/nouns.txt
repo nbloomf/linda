@@ -9,11 +9,13 @@
 ^altitude(s|'s|s')?$
 ^analogue(s|'s|s')?$
 ^analys(is|es|is'|es')$
+^angle(s|'s|s')?$
 ^annihilator(s|'s|s')?$
 ^answer(s|'s|s')?$
 ^antiquit(y|ies|y's|ies')$
 ^appendi(x|ces|x's|ces')$
 ^application(s|'s|s')?$
+^argument(s|'s|s')?$
 ^arrow(s|'s|s')?$
 ^aspect(s|'s|s')?$
 ^assertion(s|'s|s')?$
@@ -67,6 +69,7 @@
 ^definition(s|'s|s')?$
 ^denominator(s|'s|s')?$
 ^derivative(s|'s|s')?$
+^detail(s|'s|s')?$
 ^determinant(s|'s|s')?$
 ^development(s|'s|s')?$
 ^diagonal(s|'s|s')?$
@@ -150,6 +153,7 @@
 ^placeholder(s|'s|s')?$
 ^polynomial(s|'s|s')?$
 ^possibilit(y|ies|y's|ies')$
+^postulate(s|'s|s')?$
 ^prime(s|'s|s')?$
 ^principle(s|'s|s')?$
 ^problem(s|'s|s')?$
@@ -160,6 +164,7 @@
 ^propert(y|ies|y's|ies')$
 ^proposition(s|'s|s')?$
 ^punchline(s|'s|s')?$
+^quadrilateral(s|'s|s')?$
 ^question(s|'s|s')?$
 ^quirk(s|'s|s')?$
 ^quotient(s|'s|s')?$
@@ -167,6 +172,7 @@
 ^realization(s|'s|s')?$
 ^rearrangement(s|'s|s')?$
 ^recognition(s|'s|s')?$
+^rectangle(s|'s|s')?$
 ^region(s|'s|s')?$
 ^relationship(s|'s|s')?$
 ^relation(s|'s|s')?$
@@ -182,6 +188,7 @@
 ^school(s|'s|s')?$
 ^section(s|'s|s')?$
 ^separation(s|'s|s')?$
+^set(s|'s|s')?$
 ^sign(s|'s|s')?$
 ^similarit(y|ies|y's|ies')$
 ^singleton(s|'s|s')?$

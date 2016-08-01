@@ -25,9 +25,11 @@
 ^artful(ly)?$
 ^assiduous(ly)?$
 ^attentive(ly)?$
+^awkward(ly)?$
 ^bad(ly)?$
 ^barbarous(ly)?$
 ^bare(ly)?$
+^basic(ally)?$
 ^bitter(ly)?$
 ^bold(ly)?$
 ^brief(ly)?$
@@ -63,12 +65,17 @@
 ^consequent(ly)?$
 ^constant(ly)?$
 ^continual(ly)?$
+^convenient(ly)?$
+^converse(ly)?$
 ^cool(ly)?$
 ^cordial(ly)?$
+^creative(ly)?$
 ^crucial(ly)?$
 ^cruel(ly)?$
+^curious(ly)?$
 ^dead(ly)?$
 ^dear(ly)?$
+^deceptive(ly)?$
 ^deep(ly)?$
 ^deferential(ly)?$
 ^definite(ly)?$
@@ -90,7 +97,9 @@
 ^earnest(ly)?$
 ^effective(ly)?$
 ^effectual(ly)?$
+^efficient(ly)?$
 ^elder(ly)?$
+^elegant(ly)?$
 ^enormous(ly)?$
 ^equal(ly)?$
 ^equivalent(ly)?$
@@ -125,6 +134,7 @@
 ^free(ly)?$
 ^frequent(ly)?$
 ^functional(ly)?$
+^fundamental(ly)?$
 ^general(ly)?$
 ^gradual(ly)?$
 ^graphical(ly)?$
@@ -180,9 +190,11 @@
 ^instant(ly)?$
 ^interesting(ly)?$
 ^internal(ly)?$
+^international(ly)?$
 ^intimate(ly)?$
 ^intuitive(ly)?$
 ^irrational(ly)?$
+^irreducibl(e|y)$
 ^irregular(ly)?$
 ^irresolute(ly)?$
 ^jagged(ly)?$
@@ -224,6 +236,7 @@
 ^most(ly)?$
 ^motionless(ly)?$
 ^mutual(ly)?$
+^naive(ly)?$
 ^narrow(ly)?$
 ^natural(ly)?$
 ^near(ly)?$
@@ -252,6 +265,7 @@
 ^patient(ly)?$
 ^peaceful(ly)?$
 ^peculiar(ly)?$
+^pedantic(ally)?$
 ^pensive(ly)?$
 ^perfect(ly)?$
 ^perilous(ly)?$
@@ -271,10 +285,14 @@
 ^pointless(ly)?$
 ^polite(ly)?$
 ^positive(ly)?$
-^possib(le|ly)$
+^possibl(e|y)$
 ^potential(ly)?$
 ^powerful(ly)?$
 ^practical(ly)?$
+^preferabl(e|y)$
+^previous(ly)?$
+^primar(y|ily)$
+^primitive(ly)?$
 ^principal(ly)?$
 ^private(ly)?$
 ^probab(le|ly)$
@@ -296,6 +314,7 @@
 ^reasonab(le|ly)$
 ^recent(ly)?$
 ^recursive(ly)?$
+^reducibl(e|y)$
 ^reflexive(ly)?$
 ^regular(ly)?$
 ^relative(ly)?$
@@ -368,6 +387,7 @@
 ^unequal(ly)?$
 ^unfortunate(ly)?$
 ^unimportant(ly)?$
+^unintuitive(ly)?$
 ^unique(ly)?$
 ^universal(ly)?$
 ^unnatural(ly)?$

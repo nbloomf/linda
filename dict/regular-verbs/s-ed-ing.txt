@@ -144,6 +144,7 @@
 ^extend(s|ed|ing)?$
 ^extract(s|ed|ing)?$
 ^factor(s|ed|ing)?$
+^fail(s|ed|ing)?$
 ^feast(s|ed|ing)?$
 ^feather(s|ed|ing)?$
 ^festoon(s|ed|ing)?$
@@ -340,6 +341,7 @@
 ^retreat(s|ed|ing)?$
 ^return(s|ed|ing)?$
 ^review(s|ed|ing)?$
+^reward(s|ed|ing)?$
 ^ring(s|ed|ing)?$
 ^rock(s|ed|ing)?$
 ^round(s|ed|ing)?$

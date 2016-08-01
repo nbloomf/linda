@@ -96,6 +96,7 @@
 ^fact(s|'s|s')?$
 ^failure(s|'s|s')?$
 ^famil(y|ies|y's|ies')$
+^favorite(s|'s|s')?$
 ^field(s|'s|s')?$
 ^figure(s|'s|s')?$
 ^flavor(s|'s|s')?$
@@ -103,6 +104,7 @@
 ^function(s|'s|s')?$
 ^gadget(s|'s|s')?$
 ^gap(s|'s|s')?$
+^genealog(y|ies|y's|ies')$
 ^generalit(y|ies|y's|ies')$
 ^geometr(y|ies|y's|ies')$
 ^group(s|'s|s')?$
@@ -111,9 +113,12 @@
 ^ideal(s|'s|s')?$
 ^idea(s|'s|s')?$
 ^identit(y|ies|y's|ies')$
+^illustration(s|'s|s')?$
 ^image(s|'s|s')?$
+^implication(s|'s|s')?$
 ^incident(s|'s|s')?$
 ^incircle(s|'s|s')?$
+^injection(s|'s|s')?$
 ^insight(s|'s|s')?$
 ^integer(s|'s|s')?$
 ^interior(s|'s|s')?$
@@ -126,8 +131,11 @@
 ^lemma(s|'s|s')?$
 ^length(s|'s|s')?$
 ^level(s|'s|s')?$
+^license(s|'s|s')?$
+^manifestation(s|'s|s')?$
 ^mapping(s|'s|s')?$
 ^map(s|'s|s')?$
+^material(s|'s|s')?$
 ^mathematician(s|'s|s')?$
 ^matri(x|ces|x's|ces')$
 ^method(s|'s|s')?$
@@ -146,6 +154,7 @@
 ^other(s|'s|s')?$
 ^pair(s|'s|s')?$
 ^partition(s|'s|s')?$
+^part(y|ies|y's|ies')$
 ^permutation(s|'s|s')?$
 ^perpendicular(s|'s|s')?$
 ^perspective(s|'s|s')?$

@@ -19,12 +19,14 @@
 ^multipl(y|ies|ied|ying)$
 ^notif(y|ies|ied|ying)$
 ^occup(y|ies|ied|ying)$
+^oversimplif(y|ies|ied|ying)$
 ^pit(y|ies|ied|ying)$
 ^prophes(y|ies|ied|ying)$
 ^qualif(y|ies|ied|ying)$
 ^rall(y|ies|ied|ying)$
 ^repl(y|ies|ied|ying)$
 ^satisf(y|ies|ied|ying)$
+^simplif(y|ies|ied|ying)$
 ^sp(y|ies|ied|ying)$
 ^stud(y|ies|ied|ying)$
 ^suppl(y|ies|ied|ying)$

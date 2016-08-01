@@ -167,6 +167,7 @@
 ^involv(e|es|ed|ing)$
 ^jok(e|es|ed|ing)$
 ^judg(e|es|ed|ing)$
+^licens(e|es|ed|ing)$
 ^lik(e|es|ed|ing)$
 ^lin(e|es|ed|ing)$
 ^liv(e|es|ed|ing)$
@@ -247,6 +248,7 @@
 ^rejoic(e|es|ed|ing)$
 ^relat(e|es|ed|ing)$
 ^releas(e|es|ed|ing)$
+^relegat(e|es|ed|ing)$
 ^remov(e|es|ed|ing)$
 ^replac(e|es|ed|ing)$
 ^repos(e|es|ed|ing)$

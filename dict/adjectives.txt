@@ -6,6 +6,7 @@
 ^dark(er|est)?$
 ^deep(er|est)?$
 ^ding(y|ier|iest)$
+^dirt(y|ier|iest)$
 ^dull(er|est)?$
 ^earl(y|ier|iest)$
 ^eas(y|ier|iest)$
@@ -14,9 +15,11 @@
 ^few(er|est)?$
 ^fine(r|st)?$
 ^full(er|est)?$
+^funn(y|ier|iest)$
 ^gaud(y|ier|iest)$
 ^great(er|est)?$
 ^gross(er|est)?$
+^hand(y|ier|iest)$
 ^happ(y|ier|iest)$
 ^hard(er|est)?$
 ^heav(y|ier|iest)$
@@ -34,6 +37,7 @@
 ^luck(y|ier|iest)$
 ^mess(y|ier|iest)$
 ^might(y|ier|iest)$
+^nast(y|ier|iest)$
 ^new(er|est)?$
 ^noble(r|st)?$
 ^plain(er|est)?$

@@ -27,10 +27,13 @@
 ^make|makes|made|making$
 ^mean|means|meant|meaning$
 ^meet|meets|met|meeting$
+^read|reads|reading$
+^rewrite|rewrites|rewrote|rewriting|rewritten$
 ^run|runs|ran|running$
 ^seek|seeks|sought|seeking$
 ^see|sees|saw|seeing|seen$
 ^send|sends|sent|sending$
+^set|sets|setting$
 ^show|shows|showed|showing|shown$
 ^sink|sank|sunk|sinking$
 ^sit|sits|sat|sitting$

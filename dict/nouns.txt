@@ -230,6 +230,7 @@
 ^triangle(s|'s|s')?$
 ^unit(s|'s|s')?$
 ^unit(y|ies|y's|ies')$
+^universe(s|'s|s')?$
 ^universit(y|ies|y's|ies')$
 ^variable(s|'s|s')?$
 ^vector(s|'s|s')?$

@@ -64,6 +64,7 @@
 ^corollar(y|ies|y's|ies')$
 ^counterexample(s|'s|s')?$
 ^counterpart(s|'s|s')?$
+^criteri(on|a|on's|a's)$
 ^decade(s|'s|s')?$
 ^deduction(s|'s|s')?$
 ^definition(s|'s|s')?$
@@ -147,9 +148,12 @@
 ^multiplicit(y|ies|y's|ies')$
 ^network(s|'s|s')?$
 ^number(s|'s|s')?$
+^nutshell(s|'s|s')?$
 ^observation(s|'s|s')?$
+^obstacle(s|'s|s')?$
 ^offer(s|'s|s')?$
 ^operation(s|'s|s')?$
+^operator(s|'s|s')?$
 ^optimization(s|'s|s')?$
 ^other(s|'s|s')?$
 ^pair(s|'s|s')?$
@@ -177,6 +181,7 @@
 ^question(s|'s|s')?$
 ^quirk(s|'s|s')?$
 ^quotient(s|'s|s')?$
+^ray(s|'s|s')?$
 ^reader(s|'s|s')?$
 ^realization(s|'s|s')?$
 ^rearrangement(s|'s|s')?$
@@ -211,6 +216,8 @@
 ^strateg(y|ies|y's|ies')$
 ^structure(s|'s|s')?$
 ^student(s|'s|s')?$
+^subfield(s|'s|s')?$
+^subject(s|'s|s')?$
 ^subset(s|'s|s')?$
 ^sum(s|'s|s')?$
 ^symbol(s|'s|s')?$
@@ -219,6 +226,7 @@
 ^tangent(s|'s|s')?$
 ^technique(s|'s|s')?$
 ^technolog(y|ies|y's|ies')$
+^tendenc(y|ies|y's|ies')$
 ^term(s|'s|s')?$
 ^textbook(s|'s|s')?$
 ^text(s|'s|s')?$

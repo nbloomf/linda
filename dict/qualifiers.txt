@@ -73,6 +73,7 @@
 ^crucial(ly)?$
 ^cruel(ly)?$
 ^curious(ly)?$
+^cyclic(ally)?$
 ^dead(ly)?$
 ^dear(ly)?$
 ^deceptive(ly)?$
@@ -340,6 +341,7 @@
 ^serious(ly)?$
 ^short(ly)?$
 ^sick(ly)?$
+^significant(ly)?$
 ^silent(ly)?$
 ^similar(ly)?$
 ^simp(le|ly)$
@@ -372,12 +374,15 @@
 ^sure(ly)?$
 ^sweet(ly)?$
 ^synonymous(ly)?$
+^tangential(ly)?$
 ^technical(ly)?$
+^tedious(ly)?$
 ^tender(ly)?$
 ^thankful(ly)?$
 ^thorough(ly)?$
 ^timid(ly)?$
 ^total(ly)?$
+^traditional(ly)?$
 ^tranquil(ly)?$
 ^triumphant(ly)?$
 ^trivial(ly)?$
@@ -390,6 +395,8 @@
 ^unintuitive(ly)?$
 ^unique(ly)?$
 ^universal(ly)?$
+^unjust(ly)?$
+^unkind(ly)?$
 ^unnatural(ly)?$
 ^unnecessar(y|ily)$
 ^unpleasant(ly)?$

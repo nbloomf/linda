@@ -14,6 +14,7 @@
 ^kummer('s)?$
 ^leibniz$
 ^noether('s|ian)?$
+^pasch('s)?$
 ^thales(')?$
 ^wilson('s)?$
 ^zorn('s)?$

@@ -59,6 +59,7 @@
 ^conclud(e|es|ed|ing)$
 ^confin(e|es|ed|ing)$
 ^conflat(e|es|ed|ing)$
+^confus(e|es|ed|ing)$
 ^conjectur(e|es|ed|ing)$
 ^consum(e|es|ed|ing)$
 ^continu(e|es|ed|ing)$
@@ -284,6 +285,7 @@
 ^snor(e|es|ed|ing)$
 ^solv(e|es|ed|ing)$
 ^sooth(e|es|ed|ing)$
+^specializ(e|es|ed|ing)$
 ^squeez(e|es|ed|ing)$
 ^starv(e|es|ed|ing)$
 ^stat(e|es|ed|ing)$

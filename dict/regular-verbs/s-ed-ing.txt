@@ -212,6 +212,7 @@
 ^interact(s|ed|ing)?$
 ^interest(s|ed|ing)?$
 ^interpret(s|ed|ing)?$
+^intersect(s|ed|ing)?$
 ^invent(s|ed|ing)?$
 ^invest(s|ed|ing)?$
 ^jerk(s|ed|ing)?$
@@ -262,6 +263,7 @@
 ^number(s|ed|ing)?$
 ^object(s|ed|ing)?$
 ^obtain(s|ed|ing)?$
+^occur(s|ed|ing)?$
 ^offend(s|ed|ing)?$
 ^open(s|ed|ing)?$
 ^order(s|ed|ing)?$
@@ -393,6 +395,7 @@
 ^suffer(s|ed|ing)?$
 ^suggest(s|ed|ing)?$
 ^summon(s|ed|ing)?$
+^supplement(s|ed|ing)?$
 ^support(s|ed|ing)?$
 ^surrender(s|ed|ing)?$
 ^surround(s|ed|ing)?$
@@ -429,6 +432,7 @@
 ^trust(s|ed|ing)?$
 ^tuck(s|ed|ing)?$
 ^turn(s|ed|ing)?$
+^uninterest(s|ed|ing)?$
 ^view(s|ed|ing)?$
 ^vow(s|ed|ing)?$
 ^wait(s|ed|ing)?$

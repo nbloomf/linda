@@ -38,6 +38,8 @@
 ^sink|sank|sunk|sinking$
 ^sit|sits|sat|sitting$
 ^speak|speaks|spoke|speaking$
+^split|splits|splitting$
+^spring|springs|sprang|springing|sprung$
 ^stand|stands|stood|standing$
 ^take|takes|took|taking|taken$
 ^teach|teaches|taught|teaching$

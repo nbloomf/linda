@@ -4,9 +4,11 @@
 ^bur(y|ies|ied|ying)$
 ^carr(y|ies|ied|ying)$
 ^classif(y|ies|ied|ying)$
+^codif(y|ies|ied|ying)$
 ^compl(y|ies|ied|ying)$
 ^cop(y|ies|ied|ying)$
 ^cr(y|ies|ied|ying)$
+^decr(y|ies|ied|ying)$
 ^def(y|ies|ied|ying)$
 ^dr(y|ies|ied|ying)$
 ^embod(y|ies|ied|ying)$
@@ -16,6 +18,7 @@
 ^impl(y|ies|ied|ying)$
 ^justif(y|ies|ied|ying)$
 ^marr(y|ies|ied|ying)$
+^mollif(y|ies|ied|ying)$
 ^multipl(y|ies|ied|ying)$
 ^notif(y|ies|ied|ying)$
 ^occup(y|ies|ied|ying)$
@@ -24,12 +27,16 @@
 ^prophes(y|ies|ied|ying)$
 ^qualif(y|ies|ied|ying)$
 ^rall(y|ies|ied|ying)$
+^rel(y|ies|ied|ying)$
 ^repl(y|ies|ied|ying)$
 ^satisf(y|ies|ied|ying)$
 ^simplif(y|ies|ied|ying)$
+^specif(y|ies|ied|ying)$
 ^sp(y|ies|ied|ying)$
 ^stud(y|ies|ied|ying)$
+^sull(y|ies|ied|ying)$
 ^suppl(y|ies|ied|ying)$
+^tall(y|ies|ied|ying)$
 ^testif(y|ies|ied|ying)$
 ^tr(y|ies|ied|ying)$
 ^var(y|ies|ied|ying)$

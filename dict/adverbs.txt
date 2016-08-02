@@ -11,6 +11,7 @@
 ^nonetheless$
 ^now$
 ^often$
+^once$
 ^perhaps$
 ^quite$
 ^rather$
@@ -20,7 +21,9 @@
 ^then$
 ^there$
 ^therefore$
+^thrice$
 ^tomorrow$
 ^too$
+^twice$
 ^very$
 ^yesterday$

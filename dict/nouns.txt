@@ -110,6 +110,7 @@
 ^geometr(y|ies|y's|ies')$
 ^group(s|'s|s')?$
 ^hand(s|'s|s')?$
+^hierarch(y|ies|y's|ies')$
 ^hole(s|'s|s')?$
 ^ideal(s|'s|s')?$
 ^idea(s|'s|s')?$

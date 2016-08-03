@@ -47,6 +47,7 @@
 ^shabb(y|ier|iest)$
 ^sharp(er|est)?$
 ^short(er|est)?$
+^sill(y|ier|iest)$
 ^simple(r|st)?$
 ^small(er|est)?$
 ^soft(er|est)?$

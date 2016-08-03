@@ -20,6 +20,7 @@
 ^amusing(ly)?$
 ^anxious(ly)?$
 ^apparent(ly)?$
+^appropriate(ly)?$
 ^arbitrar(y|ily)$
 ^ardent(ly)?$
 ^artful(ly)?$
@@ -96,6 +97,7 @@
 ^dreadful(ly)?$
 ^eager(ly)?$
 ^earnest(ly)?$
+^eas(y|ily)$
 ^effective(ly)?$
 ^effectual(ly)?$
 ^efficient(ly)?$

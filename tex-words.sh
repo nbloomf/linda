@@ -157,7 +157,4 @@ cat | \
   # Split & sort words
   tr -s '[[:space:]]' '\n' | #
   sort -d |                  #
-  uniq |                     #
-
-#  sed "/%&%$/d" | \
-  cat
+  uniq                       #

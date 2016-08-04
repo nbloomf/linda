@@ -9,6 +9,7 @@
 ^among$
 ^around$
 ^as$
+^astride$
 ^at$
 ^before$
 ^behind$
@@ -36,6 +37,7 @@
 ^into$
 ^like$
 ^near$
+^next$
 ^of$
 ^off$
 ^on$
@@ -45,6 +47,7 @@
 ^over$
 ^past$
 ^per$
+^previous$
 ^regarding$
 ^round$
 ^save$

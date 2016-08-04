@@ -148,6 +148,7 @@
 ^motivation(s|'s|s')?$
 ^multiple(s|'s|s')?$
 ^multiplicit(y|ies|y's|ies')$
+^negative(s|'s|s')?$
 ^network(s|'s|s')?$
 ^number(s|'s|s')?$
 ^nutshell(s|'s|s')?$
@@ -158,6 +159,7 @@
 ^operator(s|'s|s')?$
 ^optimization(s|'s|s')?$
 ^other(s|'s|s')?$
+^page(s|'s|s')?$
 ^pair(s|'s|s')?$
 ^partition(s|'s|s')?$
 ^part(y|ies|y's|ies')$
@@ -167,13 +169,17 @@
 ^picture(s|'s|s')?$
 ^placeholder(s|'s|s')?$
 ^polynomial(s|'s|s')?$
+^portion(s|'s|s')?$
+^position(s|'s|s')?$
 ^possibilit(y|ies|y's|ies')$
 ^postulate(s|'s|s')?$
 ^prime(s|'s|s')?$
 ^principle(s|'s|s')?$
 ^problem(s|'s|s')?$
 ^procedure(s|'s|s')?$
+^process(es|'|es')$
 ^product(s|'s|s')?$
+^program(s|'s|s')?$
 ^projection(s|'s|s')?$
 ^proof(s|'s|s')?$
 ^propert(y|ies|y's|ies')$

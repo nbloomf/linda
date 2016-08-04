@@ -15,6 +15,7 @@
 ^hilbert('s)?$
 ^kummer('s)?$
 ^leibniz$
+^mordell$
 ^noether('s|ian)?$
 ^pasch('s)?$
 ^thales(')?$

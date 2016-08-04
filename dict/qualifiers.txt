@@ -11,12 +11,16 @@
 ^actual(ly)?$
 ^acute(ly)?$
 ^additional(ly)?$
+^additive(ly)?$
 ^adroit(ly)?$
 ^advantageous(ly)?$
 ^affectionate(ly)?$
 ^affirmative(ly)?$
 ^aimless(ly)?$
+^algebraic(ally)?$
+^algorithmic(ally)?$
 ^alternate(ly)?$
+^alternative(ly)?$
 ^amusing(ly)?$
 ^anxious(ly)?$
 ^apparent(ly)?$
@@ -27,6 +31,7 @@
 ^assiduous(ly)?$
 ^attentive(ly)?$
 ^awkward(ly)?$
+^axiomatic(ally)?$
 ^bad(ly)?$
 ^barbarous(ly)?$
 ^bare(ly)?$
@@ -36,7 +41,9 @@
 ^brief(ly)?$
 ^broad(ly)?$
 ^calm(ly)?$
+^canonical(ly)?$
 ^careful(ly)?$
+^central(ly)?$
 ^certain(ly)?$
 ^charming(ly)?$
 ^cheerful(ly)?$
@@ -56,6 +63,7 @@
 ^complacent(ly)?$
 ^complete(ly)?$
 ^comprehensive(ly)?$
+^computational(ly)?$
 ^concise(ly)?$
 ^concrete(ly)?$
 ^condescending(ly)?$
@@ -224,6 +232,7 @@
 ^mad(ly)?$
 ^magical(ly)?$
 ^magnanimous(ly)?$
+^mathematical(ly)?$
 ^maximal(ly)?$
 ^mere(ly)?$
 ^mild(ly)?$
@@ -248,6 +257,7 @@
 ^negative(ly)?$
 ^neutral(ly)?$
 ^nice(ly)?$
+^nonconstructive(ly)?$
 ^nontrivial(ly)?$
 ^obsequious(ly)?$
 ^observant(ly)?$
@@ -292,6 +302,7 @@
 ^potential(ly)?$
 ^powerful(ly)?$
 ^practical(ly)?$
+^precarious(ly)?$
 ^preferabl(e|y)$
 ^previous(ly)?$
 ^primar(y|ily)$

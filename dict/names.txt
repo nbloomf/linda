@@ -1,6 +1,8 @@
 ^bolzano('s)?$
 ^bool(e|ean)$
 ^cartesian$
+^cauchy('s)?$
+^cayley('s)?$
 ^diophant(us|ine)$
 ^emmy$
 ^eratosthenes$

@@ -16,6 +16,7 @@
 ^appendi(x|ces|x's|ces')$
 ^application(s|'s|s')?$
 ^argument(s|'s|s')?$
+^array(s|'s|s')?$
 ^arrow(s|'s|s')?$
 ^aspect(s|'s|s')?$
 ^assertion(s|'s|s')?$

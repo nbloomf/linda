@@ -2,7 +2,7 @@
 
 cat | \
   # All text lowercase
-  tr 'A-Z' 'a-z' | \
+  tr 'A-Z' 'a-z' | #
 
   # Comments
   sed 's/%.*$//' | #
@@ -21,6 +21,7 @@ cat | \
   sed 's/\\qedhere//g' |                              #
   sed 's/\\medskip//g' |                              #
   sed 's/\\noindent//g' |                             #
+  sed 's/\\maketitle//g' |                            #
   sed 's/\\small//g' |                                #
   sed 's/\\large//g' |                                #
   sed 's/\\mbox{}//' |                                #
@@ -93,6 +94,8 @@ cat | \
   sed 's/\\textbf{\([^}]*\)}/ \1 /g' |       #
   sed 's/\\text{\([^}]*\)}/ \1 /g' |         #
   sed 's/\\emph{\([^}]*\)}/ \1 /g' |         #
+  sed 's/\\title{\([^}]*\)}/ \1 /g' |        #
+  sed 's/\\author{\([^}]*\)}/ \1 /g' |       #
   sed 's/\\center{\([^}]*\)}/ \1 /g' |       #
   sed 's/\\index{\([^}]*\)}/ \1 /g' |        #
   sed 's/\\caption{\([^}]*\)}/ \1 /g' |      #

@@ -106,6 +106,7 @@
 ^ensur(e|es|ed|ing)$
 ^enumerat(e|es|ed|ing)$
 ^envelop(e|es|ed|ing)$
+^equat(e|es|ed|ing)$
 ^escap(e|es|ed|ing)$
 ^evaluat(e|es|ed|ing)$
 ^evinc(e|es|ed|ing)$

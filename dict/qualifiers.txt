@@ -22,6 +22,7 @@
 ^alternate(ly)?$
 ^alternative(ly)?$
 ^amusing(ly)?$
+^antipodal(ly)?$
 ^anxious(ly)?$
 ^apparent(ly)?$
 ^appropriate(ly)?$
@@ -332,6 +333,7 @@
 ^reflexive(ly)?$
 ^regular(ly)?$
 ^relative(ly)?$
+^relevant(ly)?$
 ^repeated(ly)?$
 ^resentful(ly)?$
 ^resolute(ly)?$
@@ -404,6 +406,7 @@
 ^uncommon(ly)?$
 ^unequal(ly)?$
 ^unfortunate(ly)?$
+^uniform(ly)?$
 ^unimportant(ly)?$
 ^unintuitive(ly)?$
 ^unique(ly)?$

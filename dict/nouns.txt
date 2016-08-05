@@ -141,8 +141,10 @@
 ^material(s|'s|s')?$
 ^mathematician(s|'s|s')?$
 ^matri(x|ces|x's|ces')$
+^maxim(um|a|um's|a's)$
 ^method(s|'s|s')?$
 ^midpoint(s|'s|s')?$
+^minim(um|a|um's|a's)$
 ^model(s|'s|s')?$
 ^moment(s|'s|s')?$
 ^motivation(s|'s|s')?$
@@ -243,7 +245,9 @@
 ^thing(s|'s|s')?$
 ^tool(s|'s|s')?$
 ^topolog(y|ies|y's|ies')$
+^trapezoid(s|'s|s')?$
 ^triangle(s|'s|s')?$
+^triple(s|'s|s')?$
 ^unit(s|'s|s')?$
 ^unit(y|ies|y's|ies')$
 ^universe(s|'s|s')?$

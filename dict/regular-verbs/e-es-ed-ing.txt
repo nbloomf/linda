@@ -298,6 +298,7 @@
 ^stumbl(e|es|ed|ing)$
 ^subsid(e|es|ed|ing)$
 ^substitut(e|es|ed|ing)$
+^suffic(e|es|ed|ing)$
 ^suppos(e|es|ed|ing)$
 ^surpris(e|es|ed|ing)$
 ^surviv(e|es|ed|ing)$

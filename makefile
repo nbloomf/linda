@@ -12,11 +12,13 @@ tidy: FORCE
 	$(call tidyup,dict/prepositions.txt)
 	$(call tidyup,dict/pronouns.txt)
 	$(call tidyup,dict/qualifiers.txt)
+	$(call tidyup,dict/determiners.txt)
 	$(call tidyup,dict/ordinals.txt)
 	$(call tidyup,dict/regular-verbs.txt)
 	$(call tidyup,dict/regular-verbs/e-es-ed-ing.txt)
 	$(call tidyup,dict/regular-verbs/es-ed-ing.txt)
 	$(call tidyup,dict/regular-verbs/s-ed-ing.txt)
+	$(call tidyup,dict/regular-verbs/s-d-ing.txt)
 	$(call tidyup,dict/regular-verbs/y-ies-ied-ying.txt)
 
 FORCE:

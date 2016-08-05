@@ -11,6 +11,7 @@ cat $1 | \
   egrep -v -f ~/code/linda/dict/irregular-verbs.txt | \
   egrep -v -f ~/code/linda/dict/adjectives.txt | \
   egrep -v -f ~/code/linda/dict/determiners.txt | \
+  egrep -v -f ~/code/linda/dict/colors.txt | \
   egrep -v -f ~/code/linda/dict/adverbs.txt | \
   egrep -v -f ~/code/linda/dict/conjunctions.txt | \
   egrep -v -f ~/code/linda/dict/ordinals.txt | \

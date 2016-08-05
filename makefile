@@ -12,6 +12,7 @@ tidy: FORCE
 	$(call tidyup,dict/prepositions.txt)
 	$(call tidyup,dict/pronouns.txt)
 	$(call tidyup,dict/qualifiers.txt)
+	$(call tidyup,dict/colors.txt)
 	$(call tidyup,dict/determiners.txt)
 	$(call tidyup,dict/ordinals.txt)
 	$(call tidyup,dict/regular-verbs.txt)

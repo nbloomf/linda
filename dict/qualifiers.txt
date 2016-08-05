@@ -12,6 +12,7 @@
 ^acute(ly)?$
 ^additional(ly)?$
 ^additive(ly)?$
+^adjacent(ly)?$
 ^adroit(ly)?$
 ^advantageous(ly)?$
 ^affectionate(ly)?$
@@ -208,6 +209,7 @@
 ^irrational(ly)?$
 ^irreducibl(e|y)$
 ^irregular(ly)?$
+^irrelevant(ly)?$
 ^irresolute(ly)?$
 ^jagged(ly)?$
 ^jealous(ly)?$
@@ -304,6 +306,7 @@
 ^powerful(ly)?$
 ^practical(ly)?$
 ^precarious(ly)?$
+^precious(ly)?$
 ^preferabl(e|y)$
 ^previous(ly)?$
 ^primar(y|ily)$
@@ -330,6 +333,7 @@
 ^recent(ly)?$
 ^recursive(ly)?$
 ^reducibl(e|y)$
+^redundant(ly)?$
 ^reflexive(ly)?$
 ^regular(ly)?$
 ^relative(ly)?$

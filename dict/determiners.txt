@@ -24,5 +24,8 @@
 ^this$
 ^those$
 ^what$
+^whatever$
+^when$
+^whenever$
 ^which$
 ^whose$

@@ -38,6 +38,7 @@
 ^barbarous(ly)?$
 ^bare(ly)?$
 ^basic(ally)?$
+^bijective(ly)?$
 ^bitter(ly)?$
 ^bold(ly)?$
 ^brief(ly)?$

@@ -1,4 +1,7 @@
+^adjust(s|ed|ing|ment(s|'s|s')?)?$
 ^admit(s|ted|ting)?$
+^appl(y|ies|ied|ying|ication(s|'s|s')?)?$
+^argu(e|es|ed|ing|ment(s|'s|s'|ative(ly)?)?)?$
 ^bog(s|ged|ging)?$
 ^chat(s|ted|ting)?$
 ^commit(s|ted|ting)?$

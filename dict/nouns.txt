@@ -2,7 +2,6 @@
 ^abstraction(s|'s|s')?$
 ^activit(y|ies|y's|ies')$
 ^addition(s|'s|s')?$
-^adjustment(s|'s|s')?$
 ^advantage(s|'s|s')?$
 ^algebra(s|'s|s')?$
 ^algorithm(s|'s|s')?$
@@ -14,14 +13,12 @@
 ^answer(s|'s|s')?$
 ^antiquit(y|ies|y's|ies')$
 ^appendi(x|ces|x's|ces')$
-^application(s|'s|s')?$
-^argument(s|'s|s')?$
 ^array(s|'s|s')?$
 ^arrow(s|'s|s')?$
 ^aspect(s|'s|s')?$
 ^assertion(s|'s|s')?$
 ^assumption(s|'s|s')?$
-^author(s|'s|s')?$
+^author(s|'s|s'|ed|ing)?$
 ^axiom(s|'s|s')?$
 ^bijection(s|'s|s')?$
 ^bridge(s|'s|s')?$
@@ -67,6 +64,8 @@
 ^counterexample(s|'s|s')?$
 ^counterpart(s|'s|s')?$
 ^criteri(on|a|on's|a's)$
+^critic(s|'s|s'|ize|izes|ized|izing|ism(s|'s|s')?|al(ly)?)?$
+^crook(s|'s|s')?$
 ^decade(s|'s|s')?$
 ^deduction(s|'s|s')?$
 ^definition(s|'s|s')?$

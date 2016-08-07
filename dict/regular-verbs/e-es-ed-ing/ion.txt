@@ -14,6 +14,13 @@
 ^deescalat(e|es|ed|ing|ion(s|'s|s')?)$
 ^deflat(e|es|ed|ing|ion(s|'s|s')?)$
 ^defoliat(e|es|ed|ing|ion(s|'s|s')?)$
+^fluctuat(e|es|ed|ing|ion(s|'s|s')?)$
+^generat(e|es|ed|ing|ion(s|'s|s')?)$
+^operat(e|es|ed|ing|ion(s|'s|s')?)$
+^originat(e|es|ed|ing|ion(s|'s|s')?)$
+^paginat(e|es|ed|ing|ion(s|'s|s')?)$
+^percolat(e|es|ed|ing|ion(s|'s|s')?)$
+^perforat(e|es|ed|ing|ion(s|'s|s')?)$
 ^reciprocat(e|es|ed|ing|ion(s|'s|s')?)$
 ^recuperat(e|es|ed|ing|ion(s|'s|s')?)$
 ^rededicat(e|es|ed|ing|ion(s|'s|s')?)$

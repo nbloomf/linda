@@ -17,6 +17,8 @@ tidy: FORCE
 	$(call tidyup,dict/ordinals.txt)
 	$(call tidyup,dict/regular-verbs.txt)
 	$(call tidyup,dict/regular-verbs/e-es-ed-ing.txt)
+	$(call tidyup,dict/regular-verbs/e-es-ed-ing/ion.txt)
+	$(call tidyup,dict/regular-verbs/e-es-ed-ing/ation.txt)
 	$(call tidyup,dict/regular-verbs/es-ed-ing.txt)
 	$(call tidyup,dict/regular-verbs/s-ed-ing.txt)
 	$(call tidyup,dict/regular-verbs/s-d-ing.txt)

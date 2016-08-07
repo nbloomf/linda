@@ -1,0 +1,5 @@
+^admir(e|es|ed|ing|ation(s|'s|s')?)$
+^revitaliz(e|es|ed|ing|ation(s|'s|s')?)$
+^specializ(e|es|ed|ing|ation(s|'s|s')?)$
+^utiliz(e|es|ed|ing|ation(s|'s|s')?)$
+^visualiz(e|es|ed|ing|ation(s|'s|s')?)$

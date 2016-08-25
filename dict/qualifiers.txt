@@ -45,6 +45,7 @@
 ^basic(ally)?$
 ^bijective(ly)?$
 ^bitter(ly)?$
+^bizarre(ly)?$
 ^bold(ly)?$
 ^brief(ly)?$
 ^broad(ly)?$

@@ -41,6 +41,8 @@ cat | \
   sed 's/^\\end{titlingpage}$//' |                    #
   sed 's/^\\begin{enumerate}$//' |                    #
   sed 's/^\\end{enumerate}$//' |                      #
+  sed 's/^\\begin{description}$//' |                  #
+  sed 's/^\\end{description}$//' |                    #
   sed 's/^\\begin{itemize}$//' |                      #
   sed 's/^\\end{itemize}$//' |                        #
   sed 's/^\\begin{proof}$//' |                        #

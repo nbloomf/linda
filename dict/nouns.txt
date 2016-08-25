@@ -54,6 +54,7 @@
 ^author(s|'s|s'|ed|ing)?$
 ^axiom(s|'s|s')?$
 ^bijection(s|'s|s')?$
+^bit(s|'s|s')?$
 ^bridge(s|'s|s')?$
 ^calculation(s|'s|s')?$
 ^calculator(s|'s|s')?$

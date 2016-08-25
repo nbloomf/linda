@@ -123,6 +123,7 @@
 ^drift(s|ed|ing)?$
 ^drown(s|ed|ing)?$
 ^duck(s|ed|ing)?$
+^edit(s|ed|ing)?$
 ^effect(s|ed|ing)?$
 ^embark(s|ed|ing)?$
 ^employ(s|ed|ing)?$

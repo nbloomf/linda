@@ -13,6 +13,7 @@ cat $1 | \
   egrep -v -f ~/code/linda/dict/determiners.txt | \
   egrep -v -f ~/code/linda/dict/colors.txt | \
   egrep -v -f ~/code/linda/dict/adverbs.txt | \
+  egrep -v -f ~/code/linda/dict/cardinals.txt | \
   egrep -v -f ~/code/linda/dict/conjunctions.txt | \
   egrep -v -f ~/code/linda/dict/ordinals.txt | \
   egrep -v -f ~/code/linda/dict/qualifiers.txt | \

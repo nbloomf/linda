@@ -24,7 +24,7 @@
 ^adoration(s|'s|s')?$
 ^adulation(s|'s|s')?$
 ^adulteration(s|'s|s')?$
-^advanc(ement(s|'s|s')?$
+^advancement(s|'s|s')?$
 ^advantage(s|'s|s')?$
 ^algebra(s|'s|s')?$
 ^algorithm(s|'s|s')?$
@@ -38,6 +38,7 @@
 ^announcement(s|'s|s')?$
 ^answer(s|'s|s')?$
 ^anticipation(s|'s|s')?$
+^antipode(s|'s|s')?$
 ^antiquit(y|ies|y's|ies')$
 ^appendi(x|ces|x's|ces')$
 ^appreciation(s|'s|s')?$
@@ -55,6 +56,7 @@
 ^bridge(s|'s|s')?$
 ^calculation(s|'s|s')?$
 ^calculator(s|'s|s')?$
+^calcul(us|i|us'|i's)$
 ^cancellation(s|'s|s')?$
 ^cardinalit(y|ies|y's|ies')$
 ^case(s|'s|s')?$
@@ -151,6 +153,7 @@
 ^exponent(s|'s|s')?$
 ^expression(s|'s|s')?$
 ^extension(s|'s|s')?$
+^extent(s|'s|s')?$
 ^exterior(s|'s|s')?$
 ^factorization(s|'s|s')?$
 ^fact(s|'s|s')?$
@@ -161,6 +164,7 @@
 ^figure(s|'s|s')?$
 ^flavor(s|'s|s')?$
 ^fluctuation(s|'s|s')?$
+^f(oo|ee)t('s)?$
 ^fraction(s|'s|s')?$
 ^friend(s|'s|s')?$
 ^function(s|'s|s')?$
@@ -193,6 +197,7 @@
 ^intuition(s|'s|s')?$
 ^inverse(s|'s|s')?$
 ^kernel(s|'s|s')?$
+^kind(s|'s|s')?$
 ^language(s|'s|s')?$
 ^lemma(s|'s|s')?$
 ^length(s|'s|s')?$
@@ -230,6 +235,7 @@
 ^page(s|'s|s')?$
 ^pagination(s|'s|s')?$
 ^pair(s|'s|s')?$
+^parallel(s|'s|s')?$
 ^partition(s|'s|s')?$
 ^part(y|ies|y's|ies')$
 ^pavement(s|'s|s')?$
@@ -269,6 +275,7 @@
 ^question(s|'s|s')?$
 ^quirk(s|'s|s')?$
 ^quotient(s|'s|s')?$
+^radi(us|i|us'|i's)$
 ^ray(s|'s|s')?$
 ^reader(s|'s|s')?$
 ^realization(s|'s|s')?$
@@ -296,6 +303,7 @@
 ^school(s|'s|s')?$
 ^section(s|'s|s')?$
 ^segment(s|'s|s')?$
+^semicircle(s|'s|s')?$
 ^sensation(s|'s|s')?$
 ^separation(s|'s|s')?$
 ^set(s|'s|s')?$
@@ -307,6 +315,7 @@
 ^source(s|'s|s')?$
 ^space(s|'s|s')?$
 ^specialization(s|'s|s')?$
+^sphere(s|'s|s')?$
 ^standard(s|'s|s')?$
 ^statement(s|'s|s')?$
 ^step(s|'s|s')?$

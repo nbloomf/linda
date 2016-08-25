@@ -11,5 +11,6 @@ FORCE:
 
 define tidyup
   @echo "tidying $(1)" | doppler lightblue
+  @cat $(1) | util/balance-lines.hs
   @sort $(1) | uniq | sponge $(1)
 endef

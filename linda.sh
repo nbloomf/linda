@@ -7,8 +7,6 @@ cat $1 | \
   egrep -v -f ~/code/linda/dict/regular-verbs/s-d-ing.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs/es-ed-ing.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs/e-es-ed-ing.txt | \
-  egrep -v -f ~/code/linda/dict/regular-verbs/e-es-ed-ing/ion.txt | \
-  egrep -v -f ~/code/linda/dict/regular-verbs/e-es-ed-ing/ation.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs/y-ies-ied-ying.txt | \
   egrep -v -f ~/code/linda/dict/irregular-verbs.txt | \
   egrep -v -f ~/code/linda/dict/adjectives.txt | \

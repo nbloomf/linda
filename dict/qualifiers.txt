@@ -92,6 +92,7 @@
 ^concise(ly)?$
 ^conclusive(ly)?$
 ^concrete(ly)?$
+^concurrent(ly)?$
 ^condescending(ly)?$
 ^conditional(ly)?$
 ^confidential(ly)?$

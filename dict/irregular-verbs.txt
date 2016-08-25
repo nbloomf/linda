@@ -4,6 +4,7 @@
 ^build|builds|built|building$
 ^choose|chooses|chose|choosing$
 ^come|comes|came|coming$
+^cut|cuts|cutting$
 ^deal|deals|dealt|dealing$
 ^do|does|did|doing$
 ^draw|draws|drew|drawing|drawn$

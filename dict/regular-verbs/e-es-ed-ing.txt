@@ -414,6 +414,7 @@
 ^pos(e|es|ed|ing)$
 ^practic(e|es|ed|ing)$
 ^preced(e|es|ed|ing)$
+^predat(e|es|ed|ing)$
 ^prepar(e|es|ed|ing)$
 ^preserv(e|es|ed|ing)$
 ^presid(e|es|ed|ing)$

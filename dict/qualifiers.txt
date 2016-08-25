@@ -90,6 +90,7 @@
 ^comprehensive(ly)?$
 ^computational(ly)?$
 ^concise(ly)?$
+^conclusive(ly)?$
 ^concrete(ly)?$
 ^condescending(ly)?$
 ^conditional(ly)?$
@@ -104,6 +105,7 @@
 ^cool(ly)?$
 ^cordial(ly)?$
 ^creative(ly)?$
+^critical(ly)?$
 ^crucial(ly)?$
 ^cruel(ly)?$
 ^curious(ly)?$
@@ -269,6 +271,7 @@
 ^inquiring(ly)?$
 ^insightful(ly)?$
 ^instant(ly)?$
+^interchangeabl(e|y)$
 ^interesting(ly)?$
 ^internal(ly)?$
 ^international(ly)?$
@@ -377,6 +380,7 @@
 ^peculiar(ly)?$
 ^pedantic(ally)?$
 ^pensive(ly)?$
+^perceptabl(e|y)$
 ^perfect(ly)?$
 ^perilous(ly)?$
 ^periodical(ly)?$

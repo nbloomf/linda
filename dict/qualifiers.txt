@@ -1,6 +1,7 @@
 ^abnormal(ly)?$
 ^abrasive(ly)?$
 ^abrupt(ly)?$
+^absentminded(ly)?$
 ^absolute(ly)?$
 ^abstract(ly)?$
 ^absurd(ly)?$
@@ -42,6 +43,7 @@
 ^bad(ly)?$
 ^barbarous(ly)?$
 ^bare(ly)?$
+^bashful(ly)?$
 ^basic(ally)?$
 ^bijective(ly)?$
 ^bitter(ly)?$
@@ -143,6 +145,7 @@
 ^disgusting(ly)?$
 ^distracted(ly)?$
 ^divine(ly)?$
+^doubtful(ly)?$
 ^drastic(ally)?$
 ^dreadful(ly)?$
 ^eager(ly)?$
@@ -157,6 +160,7 @@
 ^equal(ly)?$
 ^equivalent(ly)?$
 ^essential(ly)?$
+^even(ly)?$
 ^eventual(ly)?$
 ^evident(ly)?$
 ^exact(ly)?$
@@ -461,6 +465,7 @@
 ^rhetorical(ly)?$
 ^rich(ly)?$
 ^ridiculous(ly)?$
+^rightful(ly)?$
 ^right(ly)?$
 ^rigid(ly)?$
 ^rigorous(ly)?$
@@ -473,6 +478,7 @@
 ^safe(ly)?$
 ^scarce(ly)?$
 ^secret(ly)?$
+^seemingly(ly)?$
 ^separate(ly)?$
 ^serious(ly)?$
 ^shameful(ly)?$
@@ -530,11 +536,13 @@
 ^trivial(ly)?$
 ^typical(ly)?$
 ^ultimate(ly)?$
+^unbearabl(e|y)$
 ^uncommon(ly)?$
 ^unequal(ly)?$
 ^unfortunate(ly)?$
 ^uniform(ly)?$
 ^unimportant(ly)?$
+^unimpressive(ly)?$
 ^unintuitive(ly)?$
 ^unique(ly)?$
 ^universal(ly)?$
@@ -563,6 +571,7 @@
 ^voluptuous(ly)?$
 ^voracious(ly)?$
 ^vulgar(ly)?$
+^weird(ly)?$
 ^wild(ly)?$
 ^willing(ly)?$
 ^wise(ly)?$

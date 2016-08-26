@@ -27,3 +27,4 @@
 ^twenty$
 ^(twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)-(one|two|three|four|five|six|seven|eight|nine)$
 ^two$
+^zero$

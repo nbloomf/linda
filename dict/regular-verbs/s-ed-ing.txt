@@ -269,6 +269,7 @@
 ^offend(s|ed|ing)?$
 ^open(s|ed|ing)?$
 ^order(s|ed|ing)?$
+^outlaw(s|ed|ing)?$
 ^overpower(s|ed|ing)?$
 ^own(s|ed|ing)?$
 ^pack(s|ed|ing)?$

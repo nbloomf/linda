@@ -70,6 +70,7 @@
 ^characterization(s|'s|s')?$
 ^choice(s|'s|s')?$
 ^circle(s|'s|s')?$
+^circumcenter(s|'s|s')?$
 ^class(es|'|es')$
 ^classification(s|'s|s')?$
 ^coast(s|'s|s')?$
@@ -210,12 +211,14 @@
 ^inverse(s|'s|s')?$
 ^kernel(s|'s|s')?$
 ^kind(s|'s|s')?$
+^kite(s|'s|s')?$
 ^language(s|'s|s')?$
 ^lemma(s|'s|s')?$
 ^length(s|'s|s')?$
 ^level(s|'s|s')?$
 ^license(s|'s|s')?$
 ^localization(s|'s|s')?$
+^loss(es|'|es')?$
 ^machine(s|'s|s')?$
 ^manifestation(s|'s|s')?$
 ^mapping(s|'s|s')?$
@@ -227,6 +230,7 @@
 ^maxim(um|a|um's|a's)$
 ^method(s|'s|s')?$
 ^midpoint(s|'s|s')?$
+^midsegment(s|'s|s')?$
 ^minim(um|a|um's|a's)$
 ^model(s|'s|s')?$
 ^modul(us|i|us'|i's)$
@@ -251,11 +255,14 @@
 ^operator(s|'s|s')?$
 ^optimization(s|'s|s')?$
 ^origination(s|'s|s')?$
+^origin(s|'s|s')?$
+^orthocenter(s|'s|s')?$
 ^other(s|'s|s')?$
 ^output(s|'s|s')?$
 ^page(s|'s|s')?$
 ^pagination(s|'s|s')?$
 ^pair(s|'s|s')?$
+^parallelogram(s|'s|s')?$
 ^parallel(s|'s|s')?$
 ^partition(s|'s|s')?$
 ^part(y|ies|y's|ies')$
@@ -309,6 +316,7 @@
 ^rectangle(s|'s|s')?$
 ^recuperation(s|'s|s')?$
 ^rededication(s|'s|s')?$
+^refinement(s|'s|s')?$
 ^region(s|'s|s')?$
 ^relationship(s|'s|s')?$
 ^relation(s|'s|s')?$
@@ -325,6 +333,7 @@
 ^sacrifice(s|'s|s')?$
 ^salutation(s|'s|s')?$
 ^school(s|'s|s')?$
+^secant(s|'s|s')?$
 ^section(s|'s|s')?$
 ^segment(s|'s|s')?$
 ^semicircle(s|'s|s')?$

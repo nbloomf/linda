@@ -1,3 +1,4 @@
+^both$
 ^he$
 ^her$
 ^hers$

@@ -462,6 +462,7 @@
 ^reemerg(e|es|ed|ing)$
 ^reenforc(e|es|ed|ing)$
 ^reevaluat(e|es|ed|ing)$
+^refin(e|es|ed|ing)$
 ^refus(e|es|ed|ing)$
 ^regulat(e|es|ed|ing)$
 ^reimagin(e|es|ed|ing)$

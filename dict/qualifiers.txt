@@ -82,6 +82,7 @@
 ^colorful(ly)?$
 ^colossal(ly)?$
 ^comical(ly)?$
+^commercial(ly)?$
 ^common(ly)?$
 ^compact(ly)?$
 ^comparative(ly)?$
@@ -354,6 +355,7 @@
 ^neighbor(ly)?$
 ^neutral(ly)?$
 ^nice(ly)?$
+^noncommercial(ly)?$
 ^nonconstructive(ly)?$
 ^nontrivial(ly)?$
 ^oblivious(ly)?$

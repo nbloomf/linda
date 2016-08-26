@@ -117,6 +117,7 @@
 ^deceptive(ly)?$
 ^deep(ly)?$
 ^deferential(ly)?$
+^defiant(ly)?$
 ^definite(ly)?$
 ^deft(ly)?$
 ^dejected(ly)?$
@@ -180,12 +181,14 @@
 ^fatal(ly)?$
 ^fateful(ly)?$
 ^fervent(ly)?$
+^fierce(ly)?$
 ^figurative(ly)?$
 ^final(ly)?$
 ^firm(ly)?$
 ^formal(ly)?$
 ^former(ly)?$
 ^fortunate(ly)?$
+^frank(ly)?$
 ^free(ly)?$
 ^frequent(ly)?$
 ^functional(ly)?$
@@ -209,6 +212,7 @@
 ^harmless(ly)?$
 ^harsh(ly)?$
 ^helpful(ly)?$
+^helpless(ly)?$
 ^high(ly)?$
 ^homogeneous(ly)?$
 ^honest(ly)?$
@@ -298,11 +302,14 @@
 ^leisure(ly)?$
 ^liberal(ly)?$
 ^like(ly)?$
+^limp(ly)?$
 ^linear(ly)?$
 ^literal(ly)?$
 ^live(ly)?$
 ^logical(ly)?$
 ^loud(ly)?$
+^loving(ly)?$
+^loyal(ly)?$
 ^lurid(ly)?$
 ^luxurious(ly)?$
 ^mad(ly)?$
@@ -438,6 +445,7 @@
 ^regular(ly)?$
 ^relative(ly)?$
 ^relevant(ly)?$
+^reluctant(ly)?$
 ^repeated(ly)?$
 ^resentful(ly)?$
 ^resolute(ly)?$
@@ -502,6 +510,7 @@
 ^successive(ly)?$
 ^sudden(ly)?$
 ^sufficient(ly)?$
+^supposed(ly)?$
 ^sure(ly)?$
 ^sweet(ly)?$
 ^synonymous(ly)?$

@@ -8,6 +8,7 @@
 ^deal|deals|dealt|dealing$
 ^do|does|did|doing$
 ^draw|draws|drew|drawing|drawn$
+^fall|falls|fell|falling|fallen$
 ^fight|fights|fought|fighting$
 ^find|finds|found|finding$
 ^fly|flies|flew|flying|flown$

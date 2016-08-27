@@ -1,7 +1,7 @@
-^adjust(s|ed|ing|ment(s|'s|s')?)?$
+^adjust(s|ed|ing)?$
 ^admit(s|ted|ting)?$
-^appl(y|ies|ied|ying|ication(s|'s|s')?)?$
-^argu(e|es|ed|ing|ment(s|'s|s'|ative(ly)?)?)?$
+^appl(y|ies|ied|ying)?$
+^argu(e|es|ed|ing)$
 ^bog(s|ged|ging)?$
 ^chat(s|ted|ting)?$
 ^commit(s|ted|ting)?$
@@ -38,3 +38,4 @@
 ^skip(s|ped|ping)?$
 ^stop(s|ped|ping)?$
 ^submit(s|ted|ting)?$
+^swap(s|ped|ping)?$

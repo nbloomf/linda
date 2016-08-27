@@ -20,6 +20,7 @@
 ^addition(s|'s|s')?$
 ^adhesion(s|'s|s')?$
 ^adjudication(s|'s|s')?$
+^adjustment(s|'s|s')?$
 ^admiration(s|'s|s')?$
 ^adoration(s|'s|s')?$
 ^adulation(s|'s|s')?$
@@ -41,7 +42,9 @@
 ^antipode(s|'s|s')?$
 ^antiquit(y|ies|y's|ies')$
 ^appendi(x|ces|x's|ces')$
+^application(s|'s|s')?$
 ^appreciation(s|'s|s')?$
+^argument(s|'s|s')?$
 ^arrangement(s|'s|s')?$
 ^array(s|'s|s')?$
 ^arrow(s|'s|s')?$
@@ -194,6 +197,7 @@
 ^image(s|'s|s')?$
 ^implementation(s|'s|s')?$
 ^implication(s|'s|s')?$
+^incenter(s|'s|s')?$
 ^incident(s|'s|s')?$
 ^incircle(s|'s|s')?$
 ^inclusion(s|'s|s')?$
@@ -392,6 +396,7 @@
 ^vector(s|'s|s')?$
 ^verb(s|'s|s')?$
 ^vert(ex|ices|ex's|ices')$
+^vice(s|'s|s')?$
 ^visualization(s|'s|s')?$
 ^way(s|'s|s')?$
 ^word(s|'s|s')?$

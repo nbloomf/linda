@@ -35,6 +35,7 @@
 ^appropriate(ly)?$
 ^arbitrar(y|ily)$
 ^ardent(ly)?$
+^argumentative(ly)?$
 ^artful(ly)?$
 ^assiduous(ly)?$
 ^attentive(ly)?$

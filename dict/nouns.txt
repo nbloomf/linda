@@ -56,6 +56,7 @@
 ^attribution(s|'s|s')?$
 ^author(s|'s|s'|ed|ing)?$
 ^axiom(s|'s|s')?$
+^bed(s|'s|s')?$
 ^bijection(s|'s|s')?$
 ^bit(s|'s|s')?$
 ^bridge(s|'s|s')?$
@@ -72,6 +73,7 @@
 ^chain(s|'s|s')?$
 ^characterization(s|'s|s')?$
 ^choice(s|'s|s')?$
+^chord(s|'s|s')?$
 ^circle(s|'s|s')?$
 ^circumcenter(s|'s|s')?$
 ^class(es|'|es')$
@@ -214,13 +216,16 @@
 ^intuition(s|'s|s')?$
 ^inverse(s|'s|s')?$
 ^kernel(s|'s|s')?$
+^key(s|'s|s')?$
 ^kind(s|'s|s')?$
 ^kite(s|'s|s')?$
+^lace(s|'s|s')?$
 ^language(s|'s|s')?$
 ^lemma(s|'s|s')?$
 ^length(s|'s|s')?$
 ^level(s|'s|s')?$
 ^license(s|'s|s')?$
+^light(s|'s|s')?$
 ^localization(s|'s|s')?$
 ^loss(es|'|es')?$
 ^machine(s|'s|s')?$
@@ -333,6 +338,7 @@
 ^revitalization(s|'s|s')?$
 ^role(s|'s|s')?$
 ^root(s|'s|s')?$
+^rug(s|'s|s')?$
 ^rule(s|'s|s')?$
 ^sacrifice(s|'s|s')?$
 ^salutation(s|'s|s')?$
@@ -344,6 +350,8 @@
 ^sensation(s|'s|s')?$
 ^separation(s|'s|s')?$
 ^set(s|'s|s')?$
+^sheet(s|'s|s')?$
+^shoe(s|'s|s')?$
 ^sign(s|'s|s')?$
 ^similarit(y|ies|y's|ies')$
 ^singleton(s|'s|s')?$
@@ -354,6 +362,7 @@
 ^specialization(s|'s|s')?$
 ^sphere(s|'s|s')?$
 ^standard(s|'s|s')?$
+^staple(s|'s|s')?$
 ^statement(s|'s|s')?$
 ^step(s|'s|s')?$
 ^strateg(y|ies|y's|ies')$
@@ -399,4 +408,5 @@
 ^vice(s|'s|s')?$
 ^visualization(s|'s|s')?$
 ^way(s|'s|s')?$
+^wheel(s|'s|s')?$
 ^word(s|'s|s')?$

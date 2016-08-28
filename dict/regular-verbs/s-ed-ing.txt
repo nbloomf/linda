@@ -1,5 +1,6 @@
 ^abandon(s|ed|ing)?$
 ^absorb(s|ed|ing)?$
+^abstain(s|ed|ing)?$
 ^accept(s|ed|ing)?$
 ^account(s|ed|ing)?$
 ^acquaint(s|ed|ing)?$

@@ -25,6 +25,8 @@
 ^cop(y|ies|ied|ying)$
 ^crucif(y|ies|ied|ying)$
 ^cr(y|ies|ied|ying)$
+^curr(y|ies|ied|ying)$
+^curts(y|ies|ied|ying)$
 ^declassif(y|ies|ied|ying)$
 ^decr(y|ies|ied|ying)$
 ^def(y|ies|ied|ying)$
@@ -57,6 +59,7 @@
 ^glorif(y|ies|ied|ying)$
 ^glor(y|ies|ied|ying)$
 ^gratif(y|ies|ied|ying)$
+^harr(y|ies|ied|ying)$
 ^horrif(y|ies|ied|ying)$
 ^humidif(y|ies|ied|ying)$
 ^hurr(y|ies|ied|ying)$
@@ -68,6 +71,10 @@
 ^inventor(y|ies|ied|ying)$
 ^jimm(y|ies|ied|ying)$
 ^justif(y|ies|ied|ying)$
+^lev(y|ies|ied|ying)$
+^liquef(y|ies|ied|ying)$
+^liquif(y|ies|ied|ying)$
+^lobb(y|ies|ied|ying)$
 ^magnif(y|ies|ied|ying)$
 ^marr(y|ies|ied|ying)$
 ^modif(y|ies|ied|ying)$
@@ -113,7 +120,11 @@
 ^restud(y|ies|ied|ying)$
 ^retr(y|ies|ied|ying)$
 ^reunif(y|ies|ied|ying)$
+^sanctif(y|ies|ied|ying)$
 ^satisf(y|ies|ied|ying)$
+^scurr(y|ies|ied|ying)$
+^shimm(y|ies|ied|ying)$
+^signif(y|ies|ied|ying)$
 ^simplif(y|ies|ied|ying)$
 ^solidif(y|ies|ied|ying)$
 ^specif(y|ies|ied|ying)$
@@ -129,6 +140,9 @@
 ^testif(y|ies|ied|ying)$
 ^tid(y|ies|ied|ying)$
 ^tr(y|ies|ied|ying)$
+^typif(y|ies|ied|ying)$
+^understud(y|ies|ied|ying)$
+^unif(y|ies|ied|ying)$
 ^var(y|ies|ied|ying)$
 ^verif(y|ies|ied|ying)$
 ^worr(y|ies|ied|ying)$

@@ -105,6 +105,7 @@
 ^conscientious(ly)?$
 ^consequent(ly)?$
 ^constant(ly)?$
+^constructive(ly)?$
 ^continual(ly)?$
 ^convenient(ly)?$
 ^converse(ly)?$

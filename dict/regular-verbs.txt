@@ -2,6 +2,7 @@
 ^admit(s|ted|ting)?$
 ^appl(y|ies|ied|ying)?$
 ^argu(e|es|ed|ing)$
+^blur(s|red|ring)?$
 ^bog(s|ged|ging)?$
 ^chat(s|ted|ting)?$
 ^commit(s|ted|ting)?$

@@ -431,6 +431,7 @@
 ^succeed(s|ed|ing)?$
 ^suffer(s|ed|ing)?$
 ^suggest(s|ed|ing)?$
+^suit(s|ed|ing)?$
 ^summon(s|ed|ing)?$
 ^supplement(s|ed|ing)?$
 ^support(s|ed|ing)?$

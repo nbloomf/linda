@@ -6,7 +6,9 @@
 ^diophant(us|ine)$
 ^emmy$
 ^eratosthenes$
+^ernst$
 ^euclid('s|ean)?$
+^euler('s)?$
 ^fano('s)?$
 ^fermat('s)?$
 ^gauss('|ian)?$
@@ -19,5 +21,6 @@
 ^noether('s|ian)?$
 ^pasch('s)?$
 ^thales(')?$
+^venn('s)?$
 ^wilson('s)?$
 ^zorn('s)?$

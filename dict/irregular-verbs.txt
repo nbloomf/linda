@@ -1,4 +1,5 @@
 ^am|is|are|was|were|be|being|been$
+^bind|binds|bound|binding$
 ^break|breaks|broke|breaking|broken$
 ^bring|brings|brought|bringing$
 ^build|builds|built|building$
@@ -15,10 +16,12 @@
 ^get|gets|got|getting|gotten$
 ^give|gives|gave|giving|given$
 ^go|goes|went|going|gone$
+^grind|grinds|ground|grinding$
 ^grow|grows|grew|growing|grown$
 ^have|has|had|having$
 ^hit|hits|hitting$
 ^hold|holds|held|holding$
+^hurt|hurts|hurting$
 ^keep|keeps|kept|keeping$
 ^know|knows|knew|knowing|known$
 ^lay|lays|laid|laying$
@@ -40,6 +43,7 @@
 ^sink|sank|sunk|sinking$
 ^sit|sits|sat|sitting$
 ^speak|speaks|spoke|speaking$
+^spend|spends|spent|spending$
 ^split|splits|splitting$
 ^spring|springs|sprang|springing|sprung$
 ^stand|stands|stood|standing$
@@ -48,4 +52,5 @@
 ^think|thinks|thought|thinking$
 ^throw|throws|threw|throwing|thrown$
 ^understand|understands|understood|understanding$
+^wind|winds|wound|winding$
 ^write|writes|wrote|writing|written$

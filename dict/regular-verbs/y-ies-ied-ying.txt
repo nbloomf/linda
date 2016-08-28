@@ -1,10 +1,12 @@
 ^accompan(y|ies|ied|ying)$
 ^acidif(y|ies|ied|ying)$
+^amplif(y|ies|ied|ying)$
 ^appl(y|ies|ied|ying)$
 ^atroph(y|ies|ied|ying)$
 ^autops(y|ies|ied|ying)$
 ^bab(y|ies|ied|ying)$
 ^band(y|ies|ied|ying)$
+^beautif(y|ies|ied|ying)$
 ^biops(y|ies|ied|ying)$
 ^blood(y|ies|ied|ying)$
 ^bull(y|ies|ied|ying)$
@@ -31,6 +33,7 @@
 ^den(y|ies|ied|ying)$
 ^detoxif(y|ies|ied|ying)$
 ^dignif(y|ies|ied|ying)$
+^dirt(y|ies|ied|ying)$
 ^diversif(y|ies|ied|ying)$
 ^divv(y|ies|ied|ying)$
 ^dizz(y|ies|ied|ying)$
@@ -101,6 +104,7 @@
 ^reclassif(y|ies|ied|ying)$
 ^recop(y|ies|ied|ying)$
 ^rectif(y|ies|ied|ying)$
+^reif(y|ies|ied|ying)$
 ^rel(y|ies|ied|ying)$
 ^remarr(y|ies|ied|ying)$
 ^remed(y|ies|ied|ying)$

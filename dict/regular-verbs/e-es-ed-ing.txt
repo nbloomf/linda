@@ -530,6 +530,7 @@
 ^tast(e|es|ed|ing)$
 ^teas(e|es|ed|ing)$
 ^terminat(e|es|ed|ing)$
+^til(e|es|ed|ing)$
 ^tir(e|es|ed|ing)$
 ^tortur(e|es|ed|ing)$
 ^trac(e|es|ed|ing)$

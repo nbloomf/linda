@@ -1,5 +1,8 @@
 ^able(r|st)?$
+^alike$
+^alone$
 ^angr(y|ier|iest)$
+^available$
 ^black(er|est)?$
 ^blind(er|est)?$
 ^bright(er|est)?$

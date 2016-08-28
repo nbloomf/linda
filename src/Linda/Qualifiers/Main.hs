@@ -9,13 +9,12 @@ main :: IO ()
 main = do
   ws <- fmap words getContents
 
-  let xs = stemsWith "ly" ws
+  let as = map toRegex $ commonStems ["", "ly"] ws
+             where toRegex w = "^" ++ w ++ "(ly)?$"
 
-  let ys = map toRegex $ filter (`elem` ws) xs
+  let bs = map toRegex $ commonStems ["", "ally"] ws
+             where toRegex w = "^" ++ w ++ "(ally)?$"
 
-  sequence $ map putStrLn ys
+  sequence $ map putStrLn $ concat [as, bs]
 
   exitSuccess
-
-toRegex :: String -> String
-toRegex w = "^" ++ w ++ "(ly)?$"

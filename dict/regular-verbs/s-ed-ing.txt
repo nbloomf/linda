@@ -552,6 +552,7 @@
 ^twang(s|ed|ing)?$
 ^tweak(s|ed|ing)?$
 ^tweet(s|ed|ing)?$
+^unearth(s|ed|ing)?$
 ^unhook(s|ed|ing)?$
 ^uninterest(s|ed|ing)?$
 ^unlearn(s|ed|ing)?$

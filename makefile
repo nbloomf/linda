@@ -6,6 +6,10 @@ tidy: $(wildcard dict/*.txt) $(wildcard dict/*/*.txt)
 dict/%.txt: FORCE
 	$(call tidyup,dict/$*.txt)
 
+count: FORCE
+	@echo 'raw line count:' | doppler lightred
+	@find dict/ -type f | xargs cat | wc -l
+
 FORCE:
 
 

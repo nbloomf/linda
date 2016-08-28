@@ -6,6 +6,7 @@
 ^him$
 ^himself$
 ^his$
+^how$
 ^i$
 ^it$
 ^its$
@@ -25,6 +26,10 @@
 ^they$
 ^us$
 ^we$
+^what$
+^when$
+^who$
+^why$
 ^you$
 ^your$
 ^yours$

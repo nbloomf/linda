@@ -9,6 +9,8 @@
 ^or$
 ^since$
 ^so$
+^unless$
+^until$
 ^where$
 ^whereas$
 ^wherever$

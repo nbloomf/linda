@@ -27,5 +27,11 @@
 ^whatever$
 ^when$
 ^whenever$
+^where$
+^wherever$
 ^which$
+^who$
+^whoever$
+^whom$
+^whomever$
 ^whose$

@@ -96,8 +96,11 @@
 ^communicator(s|'s|s')?$
 ^comparison(s|'s|s')?$
 ^completion(s|'s|s')?$
+^complex(es|'s|es')?$
 ^complexit(y|ies|y's|ies')$
 ^complication(s|'s|s')?$
+^composite(s|'s|s')?$
+^composition(s|'s|s')?$
 ^computation(s|'s|s')?$
 ^computer(s|'s|s')?$
 ^concept(s|'s|s')?$
@@ -119,6 +122,7 @@
 ^construction(s|'s|s')?$
 ^constructor(s|'s|s')?$
 ^consummation(s|'s|s')?$
+^containment(s|'s|s')?$
 ^content(s|'s|s')?$
 ^context(s|'s|s')?$
 ^contradiction(s|'s|s')?$
@@ -128,6 +132,7 @@
 ^coordinate(s|'s|s')?$
 ^corollar(y|ies|y's|ies')$
 ^correspondence(s|'s|s')?$
+^coset(s|'s|s')?$
 ^counterexample(s|'s|s')?$
 ^counterpart(s|'s|s')?$
 ^couple(s|'s|s')?$
@@ -148,6 +153,7 @@
 ^defoliation(s|'s|s')?$
 ^degree(s|'s|s')?$
 ^denominator(s|'s|s')?$
+^depth(s|'s|s')?$
 ^derivative(s|'s|s')?$
 ^detail(s|'s|s')?$
 ^determinant(s|'s|s')?$
@@ -231,9 +237,11 @@
 ^instance(s|'s|s')?$
 ^instantiation(s|'s|s')?$
 ^integer(s|'s|s')?$
+^integral(s|'s|s')?$
 ^interior(s|'s|s')?$
 ^interpolation(s|'s|s')?$
 ^intersection(s|'s|s')?$
+^interval(s|'s|s')?$
 ^intuition(s|'s|s')?$
 ^inverse(s|'s|s')?$
 ^kernel(s|'s|s')?$
@@ -253,6 +261,7 @@
 ^localization(s|'s|s')?$
 ^logic(s|'s|s')?$
 ^loss(es|'|es')?$
+^lot(s|'s|s')?$
 ^machine(s|'s|s')?$
 ^manifestation(s|'s|s')?$
 ^mapping(s|'s|s')?$

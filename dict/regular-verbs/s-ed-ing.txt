@@ -191,6 +191,7 @@
 ^haunt(s|ed|ing)?$
 ^head(s|ed|ing)?$
 ^heap(s|ed|ing)?$
+^heat(s|ed|ing)?$
 ^heed(s|ed|ing)?$
 ^help(s|ed|ing)?$
 ^herd(s|ed|ing)?$

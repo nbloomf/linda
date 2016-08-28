@@ -3,8 +3,10 @@
 ^alone$
 ^angr(y|ier|iest)$
 ^available$
+^average$
 ^black(er|est)?$
 ^blind(er|est)?$
+^boxy$
 ^bright(er|est)?$
 ^choos(y|ier|iest)$
 ^chopp(y|ier|iest)$
@@ -19,7 +21,9 @@
 ^clunk(y|ier|iest)$
 ^cock(y|ier|iest)$
 ^cold(er|est)?$
+^comfortable$
 ^comf(y|ier|iest)$
+^complex$
 ^corn(y|ier|iest)$
 ^costl(y|ier|iest)$
 ^crackl(y|ier|iest)$

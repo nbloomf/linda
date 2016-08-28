@@ -93,6 +93,7 @@
 ^compar(e|es|ed|ing)$
 ^complet(e|es|ed|ing|ely)$
 ^complicat(e|es|ed|ing)$
+^compos(e|es|ed|ing)$
 ^comput(e|es|ed|ing)$
 ^conceiv(e|es|ed|ing)$
 ^conclud(e|es|ed|ing)$

@@ -19,6 +19,8 @@
 ^fortieth$
 ^fourteenth$
 ^fourth$
+^hundredth$
+^millionth$
 ^ninetieth$
 ^ninteenth$
 ^ninth$
@@ -33,6 +35,7 @@
 ^third$
 ^thirteenth$
 ^thirtieth$
+^thousandth$
 ^twelfth$
 ^twentieth$
 ^(twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)-(first|second|third|fourth|fifth|sixth|seventh|eighth|ninth)$

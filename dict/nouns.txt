@@ -382,6 +382,7 @@
 ^resultant(s|'s|s')?$
 ^result(s|'s|s')?$
 ^revitalization(s|'s|s')?$
+^ring(s|'s|s')?$
 ^role(s|'s|s')?$
 ^root(s|'s|s')?$
 ^rug(s|'s|s')?$
@@ -416,10 +417,13 @@
 ^strateg(y|ies|y's|ies')$
 ^structure(s|'s|s')?$
 ^student(s|'s|s')?$
+^stuff(s|'s|s')?$
 ^subfield(s|'s|s')?$
+^subgroup(s|'s|s')?$
 ^subject(s|'s|s')?$
 ^submission(s|'s|s')?$
 ^submitter(s|'s|s')?$
+^subring(s|'s|s')?$
 ^subset(s|'s|s')?$
 ^summar(y|ies|y's|ies')$
 ^sum(s|'s|s')?$

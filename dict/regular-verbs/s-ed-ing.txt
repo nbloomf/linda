@@ -428,6 +428,7 @@
 ^stray(s|ed|ing)?$
 ^stream(s|ed|ing)?$
 ^strengthen(s|ed|ing)?$
+^stuff(s|ed|ing)?$
 ^subtract(s|ed|ing)?$
 ^succeed(s|ed|ing)?$
 ^suffer(s|ed|ing)?$

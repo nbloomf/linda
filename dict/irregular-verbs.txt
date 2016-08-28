@@ -49,6 +49,7 @@
 ^stand|stands|stood|standing$
 ^take|takes|took|taking|taken$
 ^teach|teaches|taught|teaching$
+^tell|tells|told|telling$
 ^think|thinks|thought|thinking$
 ^throw|throws|threw|throwing|thrown$
 ^understand|understands|understood|understanding$

@@ -9,6 +9,8 @@
 ^forty$
 ^four$
 ^fourteen$
+^hundred$
+^million$
 ^nine$
 ^ninety$
 ^ninteen$
@@ -22,6 +24,7 @@
 ^ten$
 ^thirteen$
 ^thirty$
+^thousand$
 ^three$
 ^twelve$
 ^twenty$

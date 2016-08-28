@@ -514,6 +514,7 @@
 ^strange(ly)?$
 ^strict(ly)?$
 ^striking(ly)?$
+^structural(ly)?$
 ^subordinate(ly)?$
 ^subsequent(ly)?$
 ^successful(ly)?$

@@ -32,6 +32,7 @@
 ^make|makes|made|making$
 ^mean|means|meant|meaning$
 ^meet|meets|met|meeting$
+^prove|proves|proved|proving|proven$
 ^read|reads|reading$
 ^rewrite|rewrites|rewrote|rewriting|rewritten$
 ^run|runs|ran|running$

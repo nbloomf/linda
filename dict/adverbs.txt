@@ -1,8 +1,10 @@
 ^afterwards$
+^again$
 ^already$
 ^also$
 ^although$
 ^always$
+^away$
 ^beforehand$
 ^elsewhere$
 ^everywhere$

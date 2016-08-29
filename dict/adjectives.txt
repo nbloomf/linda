@@ -6,7 +6,7 @@
 ^average$
 ^black(er|est)?$
 ^blind(er|est)?$
-^boxy$
+^box(y|ier|iest)$
 ^bright(er|est)?$
 ^choos(y|ier|iest)$
 ^chopp(y|ier|iest)$
@@ -402,6 +402,7 @@
 ^stodg(y|ier|iest)$
 ^ston(y|ier|iest)$
 ^storm(y|ier|iest)$
+^straight(er|est)?$
 ^stretch(y|ier|iest)$
 ^string(y|ier|iest)$
 ^strong(er|est)?$

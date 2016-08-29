@@ -410,6 +410,7 @@
 ^page(s|'s|s')?$
 ^pagination(s|'s|s')?$
 ^pair(s|'s|s')?$
+^paragraph(s|'s|s')?$
 ^parallelogram(s|'s|s')?$
 ^parallel(s|'s|s')?$
 ^particle(s|'s|s')?$

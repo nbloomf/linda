@@ -4,6 +4,8 @@
 ^been$
 ^being$
 ^can$
+^cannot$
+^can't$
 ^could$
 ^did$
 ^do$
@@ -20,4 +22,6 @@
 ^was$
 ^were$
 ^will$
+^won't$
 ^would$
+^wouldn't$

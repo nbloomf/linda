@@ -68,6 +68,7 @@
 ^mass(es|ed|ing)?$
 ^match(es|ed|ing)?$
 ^mix(es|ed|ing)?$
+^nix(es|ed|ing)?$
 ^notch(es|ed|ing)?$
 ^obsess(es|ed|ing)?$
 ^oppress(es|ed|ing)?$

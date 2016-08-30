@@ -4,6 +4,7 @@ cat $1 | \
   egrep -v -f ~/code/linda/dict/nouns.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs/s-ed-ing.txt | \
+  egrep -v -f ~/code/linda/dict/regular-verbs/s-ped-ping.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs/s-d-ing.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs/es-ed-ing.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs/e-es-ed-ing.txt | \

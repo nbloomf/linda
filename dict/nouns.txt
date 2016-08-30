@@ -354,6 +354,7 @@
 ^hand(s|'s|s')?$
 ^heading(s|'s|s')?$
 ^height(s|'s|s')?$
+^heli(x|ces|x's|ces')$
 ^hierarch(y|ies|y's|ies')$
 ^hole(s|'s|s')?$
 ^hook(s|'s|s')?$

@@ -1,0 +1,4 @@
+^application(s|'s|s')?$
+^classification(s|'s|s')?$
+^implication(s|'s|s')?$
+^multiplication(s|'s|s')?$

@@ -1,0 +1,15 @@
+^abbreviation(s|'s|s')?$
+^abdication(s|'s|s')?$
+^acceleration(s|'s|s')?$
+^accumulation(s|'s|s')?$
+^appreciation(s|'s|s')?$
+^aspiration(s|'s|s')?$
+^defoliation(s|'s|s')?$
+^demonstration(s|'s|s')?$
+^demotion(s|'s|s')?$
+^equation(s|'s|s')?$
+^origination(s|'s|s')?$
+^pagination(s|'s|s')?$
+^percolation(s|'s|s')?$
+^perforation(s|'s|s')?$
+^persecution(s|'s|s')?$

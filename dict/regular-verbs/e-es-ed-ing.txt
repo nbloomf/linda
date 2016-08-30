@@ -66,6 +66,7 @@
 ^arous(e|es|ed|ing)$
 ^arrang(e|es|ed|ing)$
 ^arriv(e|es|ed|ing)$
+^aspirat(e|es|ed|ing)$
 ^assembl(e|es|ed|ing)$
 ^associat(e|es|ed|ing)$
 ^assum(e|es|ed|ing)$

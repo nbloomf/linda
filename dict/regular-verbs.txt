@@ -38,6 +38,7 @@
 ^shred(s|ded|ding)?$
 ^skid(s|ded|ding)?$
 ^slur(s|red|ring)?$
+^cram(s|med|ming)?$
 ^spar(s|red|ring)?$
 ^star(s|red|ring)?$
 ^tar(s|red|ring)?$

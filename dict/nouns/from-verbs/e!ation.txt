@@ -1,0 +1,15 @@
+^accusation(s|'s|s')?$
+^aspiration(s|'s|s')?$
+^localization(s|'s|s')?$
+^observation(s|'s|s')?$
+^optimization(s|'s|s')?$
+^permutation(s|'s|s')?$
+^personalization(s|'s|s')?$
+^perspiration(s|'s|s')?$
+^realization(s|'s|s')?$
+^restoration(s|'s|s')?$
+^salutation(s|'s|s')?$
+^sensation(s|'s|s')?$
+^specialization(s|'s|s')?$
+^utilization(s|'s|s')?$
+^visualization(s|'s|s')?$

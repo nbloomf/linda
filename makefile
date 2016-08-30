@@ -1,7 +1,10 @@
 all: FORCE
 	/app/halcyon/halcyon install /home/nathan/code/linda
 
-tidy: $(wildcard dict/*.txt) $(wildcard dict/*/*.txt)
+tidy: \
+  $(wildcard dict/*.txt) \
+  $(wildcard dict/*/*.txt) \
+  $(wildcard dict/*/*/*.txt)
 
 dict/%.txt: FORCE
 	$(call tidyup,dict/$*.txt)

@@ -13,7 +13,6 @@
 ^accident(s|'s|s')?$
 ^accommodation(s|'s|s')?$
 ^accumulator(s|'s|s')?$
-^accusation(s|'s|s')?$
 ^accuser(s|'s|s')?$
 ^achievement(s|'s|s')?$
 ^acquiescence(s|'s|s')?$
@@ -338,7 +337,6 @@
 ^figure(s|'s|s')?$
 ^finger(s|'s|s')?$
 ^flavor(s|'s|s')?$
-^fluctuation(s|'s|s')?$
 ^f(oo|ee)t('s)?$
 ^forearm(s|'s|s')?$
 ^formalit(y|ies|y's|ies')$
@@ -354,7 +352,6 @@
 ^genealog(y|ies|y's|ies')$
 ^generalit(y|ies|y's|ies')$
 ^generalization(s|'s|s')?$
-^generation(s|'s|s')?$
 ^generosit(y|ies|y's|ies')$
 ^geometr(y|ies|y's|ies')$
 ^grammar(s|'s|s')?$
@@ -454,7 +451,6 @@
 ^liabilit(y|ies|y's|ies')$
 ^license(s|'s|s')?$
 ^light(s|'s|s')?$
-^localization(s|'s|s')?$
 ^logic(s|'s|s')?$
 ^loss(es|'|es')?$
 ^lot(s|'s|s')?$
@@ -512,7 +508,6 @@
 ^number(s|'s|s')?$
 ^nutshell(s|'s|s')?$
 ^obscurit(y|ies|y's|ies')$
-^observation(s|'s|s')?$
 ^observer(s|'s|s')?$
 ^obstacle(s|'s|s')?$
 ^offer(s|'s|s')?$
@@ -520,7 +515,6 @@
 ^operator(s|'s|s')?$
 ^opportunit(y|ies|y's|ies')$
 ^opposite(s|'s|s')?$
-^optimization(s|'s|s')?$
 ^organization(s|'s|s')?$
 ^organizer(s|'s|s')?$
 ^origin(s|'s|s')?$
@@ -540,13 +534,10 @@
 ^paver(s|'s|s')?$
 ^perception(s|'s|s')?$
 ^period(s|'s|s')?$
-^permutation(s|'s|s')?$
 ^perpendicular(s|'s|s')?$
 ^persecutee(s|'s|s')?$
 ^persecutor(s|'s|s')?$
-^personalization(s|'s|s')?$
 ^perspective(s|'s|s')?$
-^perspiration(s|'s|s')?$
 ^phrase(s|'s|s')?$
 ^picture(s|'s|s')?$
 ^pigst(y|ies|y's|ies')$
@@ -597,7 +588,6 @@
 ^ray(s|'s|s')?$
 ^reader(s|'s|s')?$
 ^realit(y|ies|y's|ies')$
-^realization(s|'s|s')?$
 ^rearrangement(s|'s|s')?$
 ^reciprocal(s|'s|s')?$
 ^reciprocation(s|'s|s')?$
@@ -615,7 +605,6 @@
 ^residue(s|'s|s')?$
 ^resolution(s|'s|s')?$
 ^responsibilit(y|ies|y's|ies')$
-^restoration(s|'s|s')?$
 ^restorer(s|'s|s')?$
 ^restriction(s|'s|s')?$
 ^resultant(s|'s|s')?$
@@ -636,7 +625,6 @@
 ^safet(y|ies|y's|ies')$
 ^salar(y|ies|y's|ies')?$
 ^salt(s|'s|s')?$
-^salutation(s|'s|s')?$
 ^salute(s|'s|s')?$
 ^school(s|'s|s')?$
 ^seat(s|'s|s')?$
@@ -645,7 +633,6 @@
 ^securit(y|ies|y's|ies')$
 ^segment(s|'s|s')?$
 ^semicircle(s|'s|s')?$
-^sensation(s|'s|s')?$
 ^sensitivit(y|ies|y's|ies')$
 ^sensor(s|'s|s')?$
 ^separation(s|'s|s')?$
@@ -671,7 +658,6 @@
 ^sort(s|'s|s')?$
 ^source(s|'s|s')?$
 ^space(s|'s|s')?$
-^specialization(s|'s|s')?$
 ^specialt(y|ies|y's|ies')$
 ^sphere(s|'s|s')?$
 ^spice(s|'s|s')?$
@@ -787,7 +773,6 @@
 ^unit(y|ies|y's|ies')$
 ^universe(s|'s|s')?$
 ^universit(y|ies|y's|ies')$
-^utilization(s|'s|s')?$
 ^variable(s|'s|s')?$
 ^vector(s|'s|s')?$
 ^velocit(y|ies|y's|ies')$
@@ -796,10 +781,8 @@
 ^vice(s|'s|s')?$
 ^vision(s|'s|s')?$
 ^visor(s|'s|s')?$
-^visualization(s|'s|s')?$
 ^vulgarit(y|ies|y's|ies')?$
-^vulnerabilit(y|ies|y's|ies')?$
-^vulterabilit(y|ies|y's|ies')$
+^vulnerabilit(y|ies|y's|ies')$
 ^wad(s|'s|s')?$
 ^way(s|'s|s')?$
 ^weight(s|'s|s')?$

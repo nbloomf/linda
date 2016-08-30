@@ -615,3 +615,4 @@
 ^worsen(s|ed|ing)?$
 ^wound(s|ed|ing)?$
 ^yield(s|ed|ing)?$
+^zoom(s|ed|ing)?$

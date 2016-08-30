@@ -19,6 +19,7 @@
 ^grind|grinds|ground|grinding$
 ^grow|grows|grew|growing|grown$
 ^have|has|had|having$
+^hide|hides|hid|hiding|hidden$
 ^hit|hits|hitting$
 ^hold|holds|held|holding$
 ^hurt|hurts|hurting$
@@ -43,6 +44,7 @@
 ^show|shows|showed|showing|shown$
 ^sink|sank|sunk|sinking$
 ^sit|sits|sat|sitting$
+^slide|slides|slid|sliding|slidden$
 ^speak|speaks|spoke|speaking$
 ^spend|spends|spent|spending$
 ^split|splits|splitting$

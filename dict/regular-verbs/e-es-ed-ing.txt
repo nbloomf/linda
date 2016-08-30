@@ -398,6 +398,8 @@
 ^handl(e|es|ed|ing)$
 ^hat(e|es|ed|ing)$
 ^heav(e|es|ed|ing)$
+^hesitat(e|es|ed|ing)$
+^hobbl(e|es|ed|ing)$
 ^hon(e|es|ed|ing)$
 ^hop(e|es|ed|ing)$
 ^hous(e|es|ed|ing)$
@@ -774,6 +776,8 @@
 ^wak(e|es|ed|ing)$
 ^wan(e|es|ed|ing)$
 ^wav(e|es|ed|ing)$
+^whittl(e|es|ed|ing)$
+^wholesal(e|es|ed|ing)$
 ^winc(e|es|ed|ing)$
 ^wip(e|es|ed|ing)$
 ^yok(e|es|ed|ing)$

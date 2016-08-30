@@ -257,6 +257,7 @@
 ^hectic(ally)?$
 ^helpful(ly)?$
 ^helpless(ly)?$
+^hesitant(ly)?$
 ^high(ly)?$
 ^homogeneous(ly)?$
 ^honest(ly)?$

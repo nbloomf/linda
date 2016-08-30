@@ -4,3 +4,4 @@
 ^filigree(s|d|ing)?$
 ^guarantee(s|d|ing)?$
 ^melee(s|d|ing)?$
+^referee(s|d|ing)?$

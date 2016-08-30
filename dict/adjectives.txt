@@ -159,6 +159,7 @@
 ^heft(y|ier|iest)$
 ^high(er|est)?$
 ^hill(y|ier|iest)$
+^hoars(e|er|est)$
 ^hoar(y|ier|iest)$
 ^hol(y|ier|iest)$
 ^homel(y|ier|iest)$

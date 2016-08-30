@@ -92,6 +92,9 @@
 ^ossif(y|ies|ied|ying)$
 ^oversimplif(y|ies|ied|ying)$
 ^pacif(y|ies|ied|ying)$
+^parr(y|ies|ied|ying)$
+^personif(y|ies|ied|ying)$
+^petrif(y|ies|ied|ying)$
 ^photocop(y|ies|ied|ying)$
 ^pillor(y|ies|ied|ying)$
 ^pit(y|ies|ied|ying)$
@@ -133,6 +136,7 @@
 ^stead(y|ies|ied|ying)$
 ^stratif(y|ies|ied|ying)$
 ^stud(y|ies|ied|ying)$
+^stupef(y|ies|ied|ying)$
 ^sull(y|ies|ied|ying)$
 ^suppl(y|ies|ied|ying)$
 ^tall(y|ies|ied|ying)$

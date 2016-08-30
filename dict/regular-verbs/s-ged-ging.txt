@@ -1,3 +1,4 @@
+^bag(s|ged|ging)?$
 ^bog(s|ged|ging)?$
 ^bootleg(s|ged|ging)?$
 ^brag(s|ged|ging)?$
@@ -15,4 +16,3 @@
 ^peg(s|ged|ging)?$
 ^plug(s|ged|ging)?$
 ^shrug(s|ged|ging)?$
-^bag(s|ged|ging)?$

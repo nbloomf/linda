@@ -1,10 +1,10 @@
 ^accompan(y|ies|ied|ying)$
 ^acidif(y|ies|ied|ying)$
 ^amplif(y|ies|ied|ying)$
+^appl(y|ies|ied|ying)?$
 ^appl(y|ies|ied|ying)$
 ^atroph(y|ies|ied|ying)$
 ^autops(y|ies|ied|ying)$
-^appl(y|ies|ied|ying)?$
 ^bab(y|ies|ied|ying)$
 ^band(y|ies|ied|ying)$
 ^beautif(y|ies|ied|ying)$

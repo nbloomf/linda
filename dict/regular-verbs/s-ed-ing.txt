@@ -4,6 +4,7 @@
 ^accept(s|ed|ing)?$
 ^account(s|ed|ing)?$
 ^acquaint(s|ed|ing)?$
+^adjust(s|ed|ing)?$
 ^act(s|ed|ing)?$
 ^add(s|ed|ing)?$
 ^adjoin(s|ed|ing)?$

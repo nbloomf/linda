@@ -4,11 +4,17 @@
 ^chap(s|ped|ping)?$
 ^chip(s|ped|ping)?$
 ^chop(s|ped|ping)?$
+^grip(s|ped|ping)?$
+^flop(s|ped|ping)?$
+^lap(s|ped|ping)?$
+^sap(s|ped|ping)?$
+^handicap(s|ped|ping)?$
 ^clap(s|ped|ping)?$
 ^clip(s|ped|ping)?$
 ^crop(s|ped|ping)?$
 ^cup(s|ped|ping)?$
 ^dip(s|ped|ping)?$
+^prep(s|ped|ping)?$
 ^drip(s|ped|ping)?$
 ^drop(s|ped|ping)?$
 ^eavesdrop(s|ped|ping)?$

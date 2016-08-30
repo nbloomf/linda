@@ -30,6 +30,8 @@
 ^attempt(s|ed|ing)?$
 ^attend(s|ed|ing)?$
 ^attract(s|ed|ing)?$
+^audition(s|ed|ing)?$
+^author(s|ed|ing)?$
 ^avoid(s|ed|ing)?$
 ^await(s|ed|ing)?$
 ^awaken(s|ed|ing)?$

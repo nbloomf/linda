@@ -550,6 +550,7 @@
 ^slop(e|es|ed|ing)$
 ^smok(e|es|ed|ing)$
 ^sneez(e|es|ed|ing)$
+^snip(e|es|ed|ing)$
 ^snor(e|es|ed|ing)$
 ^solv(e|es|ed|ing)$
 ^sooth(e|es|ed|ing)$

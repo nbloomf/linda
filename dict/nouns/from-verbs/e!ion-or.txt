@@ -1,5 +1,6 @@
 ^abbreviat(ion|or)(s|'s|s')?$
 ^abdicat(ion|or)(s|'s|s')?$
+^abrogat(ion|or)(s|'s|s')?$
 ^accelerat(ion|or)(s|'s|s')?$
 ^accommodat(ion|or)(s|'s|s')?$
 ^accumulat(ion|or)(s|'s|s')?$

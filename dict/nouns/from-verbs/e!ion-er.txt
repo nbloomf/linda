@@ -1,0 +1,2 @@
+^aspers(ion|er)(s|'s|s')?$
+^complet(ion|er)(s|'s|s')?$

@@ -1,6 +1,5 @@
 ^abilit(y|ies|y's|ies')$
 ^abomination(s|'s|s')?$
-^abrogation(s|'s|s')?$
 ^absolution(s|'s|s')?$
 ^abstainer(s|'s|s')?$
 ^abstention(s|'s|s')?$
@@ -100,7 +99,6 @@
 ^art(s|'s|s')?$
 ^ascot(s|'s|s')?$
 ^aspect(s|'s|s')?$
-^aspersion(s|'s|s')?$
 ^asphalt(s|'s|s')?$
 ^assertion(s|'s|s')?$
 ^ass(es|'|es')?$
@@ -165,7 +163,6 @@
 ^commodit(y|ies|y's|ies')$
 ^communit(y|ies|y's|ies')$
 ^comparison(s|'s|s')?$
-^completion(s|'s|s')?$
 ^complex(es|'s|es')?$
 ^complexit(y|ies|y's|ies')$
 ^composite(s|'s|s')?$

@@ -14,7 +14,6 @@
 ^accommodation(s|'s|s')?$
 ^accumulator(s|'s|s')?$
 ^accuser(s|'s|s')?$
-^achievement(s|'s|s')?$
 ^acquiescence(s|'s|s')?$
 ^activation(s|'s|s')?$
 ^activator(s|'s|s')?$
@@ -31,21 +30,17 @@
 ^adjudication(s|'s|s')?$
 ^adjunct(s|'s|s')?$
 ^adjuster(s|'s|s')?$
-^adjustment(s|'s|s')?$
 ^admiration(s|'s|s')?$
 ^admirer(s|'s|s')?$
 ^admonition(s|'s|s')?$
 ^adoration(s|'s|s')?$
-^adornment(s|'s|s')?$
 ^adulation(s|'s|s')?$
 ^adulteration(s|'s|s')?$
-^advancement(s|'s|s')?$
 ^advantage(s|'s|s')?$
 ^adventurer(s|'s|s')?$
 ^adventure(s|'s|s')?$
 ^adverb(s|'s|s')?$
 ^adversar(y|ies|y's|ies')$
-^advertisement(s|'s|s')?$
 ^advocate(s|'s|s')?$
 ^aerosol(s|'s|s')?$
 ^affair(s|'s|s')?$
@@ -64,7 +59,6 @@
 ^algebra(s|'s|s')?$
 ^algorithm(s|'s|s')?$
 ^alien(s|'s|s')?$
-^alignment(s|'s|s')?$
 ^allegor(y|ies|y's|ies')$
 ^allergen(s|'s|s')?$
 ^allerg(y|ies|y's|ies')$
@@ -89,7 +83,6 @@
 ^annihilator(s|'s|s')?$
 ^anniversar(y|ies|y's|ies')$
 ^annotation(s|'s|s')?$
-^announcement(s|'s|s')?$
 ^announcer(s|'s|s')?$
 ^annulment(s|'s|s')?$
 ^anomal(y|ies|y's|ies')$
@@ -107,7 +100,6 @@
 ^apolog(y|ies|y's|ies')$
 ^apostle(s|'s|s')?$
 ^apothecar(y|ies|y's|ies')$
-^appeasement(s|'s|s')?$
 ^appeaser(s|'s|s')?$
 ^appendage(s|'s|s')?$
 ^appendi(x|ces|x's|ces')$
@@ -118,7 +110,6 @@
 ^armlet(s|'s|s')?$
 ^armor(y|ies|y's|ies')$
 ^arm(s|'s|s')?$
-^arrangement(s|'s|s')?$
 ^array(s|'s|s')?$
 ^arrow(s|'s|s')?$
 ^arthropod(s|'s|s')?$
@@ -211,7 +202,6 @@
 ^conclusion(s|'s|s')?$
 ^condition(s|'s|s')?$
 ^conduit(s|'s|s')?$
-^confinement(s|'s|s')?$
 ^conflation(s|'s|s')?$
 ^confusion(s|'s|s')?$
 ^congruence(s|'s|s')?$
@@ -229,7 +219,6 @@
 ^constructor(s|'s|s')?$
 ^consummation(s|'s|s')?$
 ^container(s|'s|s')?$
-^containment(s|'s|s')?$
 ^content(s|'s|s')?$
 ^context(s|'s|s')?$
 ^contradiction(s|'s|s')?$
@@ -291,7 +280,6 @@
 ^determinant(s|'s|s')?$
 ^detractor(s|'s|s')?$
 ^developer(s|'s|s')?$
-^development(s|'s|s')?$
 ^diagonal(s|'s|s')?$
 ^diagram(s|'s|s')?$
 ^difference(s|'s|s')?$
@@ -530,7 +518,6 @@
 ^partition(s|'s|s')?$
 ^part(y|ies|y's|ies')$
 ^patriarch(s|'s|s')?$
-^pavement(s|'s|s')?$
 ^paver(s|'s|s')?$
 ^perception(s|'s|s')?$
 ^period(s|'s|s')?$
@@ -588,14 +575,12 @@
 ^ray(s|'s|s')?$
 ^reader(s|'s|s')?$
 ^realit(y|ies|y's|ies')$
-^rearrangement(s|'s|s')?$
 ^reciprocal(s|'s|s')?$
 ^reciprocation(s|'s|s')?$
 ^recognition(s|'s|s')?$
 ^rectangle(s|'s|s')?$
 ^recuperation(s|'s|s')?$
 ^rededication(s|'s|s')?$
-^refinement(s|'s|s')?$
 ^region(s|'s|s')?$
 ^relationship(s|'s|s')?$
 ^relation(s|'s|s')?$
@@ -668,7 +653,6 @@
 ^spring(s|'s|s')?$
 ^standard(s|'s|s')?$
 ^staple(s|'s|s')?$
-^statement(s|'s|s')?$
 ^state(s|'s|s')?$
 ^step(s|'s|s')?$
 ^strap(s|'s|s')?$

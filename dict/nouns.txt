@@ -8,13 +8,11 @@
 ^abutment(s|'s|s')?$
 ^abyss(es|'|es')?$
 ^academician(s|'s|s')?$
-^accelerator(s|'s|s')?$
 ^accessor(y|ies|y's|ies')$
 ^accident(s|'s|s')?$
 ^accumulator(s|'s|s')?$
 ^accuser(s|'s|s')?$
 ^acquiescence(s|'s|s')?$
-^activator(s|'s|s')?$
 ^activit(y|ies|y's|ies')$
 ^actor(s|'s|s')?$
 ^actuar(y|ies|y's|ies')$
@@ -42,7 +40,6 @@
 ^aftertaste(s|'s|s')?$
 ^agate(s|'s|s')?$
 ^aggressor(s|'s|s')?$
-^agitator(s|'s|s')?$
 ^airline(s|'s|s')?$
 ^alcoholic(s|'s|s')?$
 ^alert(s|'s|s')?$
@@ -60,7 +57,6 @@
 ^alpaca(s|'s|s')?$
 ^altar(s|'s|s')?$
 ^alternative(s|'s|s')?$
-^alternator(s|'s|s')?$
 ^altitude(s|'s|s')?$
 ^analogue(s|'s|s')?$
 ^analys(is|es|is'|es')$
@@ -70,7 +66,6 @@
 ^angler(s|'s|s')?$
 ^angle(s|'s|s')?$
 ^animal(s|'s|s')?$
-^annihilator(s|'s|s')?$
 ^anniversar(y|ies|y's|ies')$
 ^announcer(s|'s|s')?$
 ^annulment(s|'s|s')?$
@@ -114,6 +109,7 @@
 ^atrocit(y|ies|y's|ies')$
 ^attic(s|'s|s')?$
 ^attorney(s|'s|s')?$
+^attract(ion|or)(s|'s|s')?$
 ^attractor(s|'s|s')?$
 ^auditor(s|'s|s')?$
 ^audit(s|'s|s')?$
@@ -140,7 +136,6 @@
 ^bulb(s|'s|s')?$
 ^business(es|'|es')?$
 ^calamit(y|ies|y's|ies')$
-^calculator(s|'s|s')?$
 ^calcul(us|i|us'|i's)$
 ^cancellation(s|'s|s')?$
 ^capacit(y|ies|y's|ies')$
@@ -168,7 +163,6 @@
 ^color(s|'s|s')?$
 ^column(s|'s|s')?$
 ^commodit(y|ies|y's|ies')$
-^communicator(s|'s|s')?$
 ^communit(y|ies|y's|ies')$
 ^comparison(s|'s|s')?$
 ^complex(es|'s|es')?$
@@ -185,7 +179,6 @@
 ^conservator(s|'s|s')?$
 ^consideration(s|'s|s')?$
 ^console(s|'s|s')?$
-^consolidator(s|'s|s')?$
 ^constant(s|'s|s')?$
 ^constraint(s|'s|s')?$
 ^construction(s|'s|s')?$
@@ -195,7 +188,6 @@
 ^content(s|'s|s')?$
 ^context(s|'s|s')?$
 ^contradiction(s|'s|s')?$
-^contributor(s|'s|s')?$
 ^convention(s|'s|s')?$
 ^coordinate(s|'s|s')?$
 ^corollar(y|ies|y's|ies')$
@@ -217,7 +209,6 @@
 ^critic(s|'s|s')?$
 ^crook(s|'s|s')?$
 ^cruelt(y|ies|y's|ies')$
-^curator(s|'s|s')?$
 ^curb(s|'s|s')?$
 ^curdle(s|'s|s')?$
 ^curd(s|'s|s')?$
@@ -229,13 +220,11 @@
 ^deduction(s|'s|s')?$
 ^definition(s|'s|s')?$
 ^defoliant(s|'s|s')?$
-^defoliator(s|'s|s')?$
 ^degree(s|'s|s')?$
 ^democrat(s|'s|s')?$
 ^demographer(s|'s|s')?$
 ^demographic(s|'s|s')?$
 ^demon(s|'s|s')?$
-^demonstrator(s|'s|s')?$
 ^demo(s|'s|s')?$
 ^dendrite(s|'s|s')?$
 ^denial(s|'s|s')?$
@@ -268,7 +257,6 @@
 ^equit(y|ies|y's|ies')$
 ^equivalence(s|'s|s')?$
 ^eternit(y|ies|y's|ies')$
-^evaluator(s|'s|s')?$
 ^example(s|'s|s')?$
 ^excenter(s|'s|s')?$
 ^excircle(s|'s|s')?$
@@ -339,7 +327,6 @@
 ^idea(s|'s|s')?$
 ^identit(y|ies|y's|ies')$
 ^illegalit(y|ies|y's|ies')?$
-^illustrator(s|'s|s')?$
 ^image(s|'s|s')?$
 ^immensit(y|ies|y's|ies')?$
 ^immoralit(y|ies|y's|ies')?$
@@ -459,7 +446,6 @@
 ^observer(s|'s|s')?$
 ^obstacle(s|'s|s')?$
 ^offer(s|'s|s')?$
-^operator(s|'s|s')?$
 ^opportunit(y|ies|y's|ies')$
 ^opposite(s|'s|s')?$
 ^organizer(s|'s|s')?$
@@ -481,7 +467,6 @@
 ^period(s|'s|s')?$
 ^perpendicular(s|'s|s')?$
 ^persecutee(s|'s|s')?$
-^persecutor(s|'s|s')?$
 ^perspective(s|'s|s')?$
 ^phrase(s|'s|s')?$
 ^picture(s|'s|s')?$
@@ -573,7 +558,6 @@
 ^semicircle(s|'s|s')?$
 ^sensitivit(y|ies|y's|ies')$
 ^sensor(s|'s|s')?$
-^separator(s|'s|s')?$
 ^set(s|'s|s')?$
 ^shant(y|ies|y's|ies')$
 ^sheet(s|'s|s')?$
@@ -651,7 +635,6 @@
 ^temple(s|'s|s')?$
 ^tempo(s|'s|s')?$
 ^tendenc(y|ies|y's|ies')$
-^terminator(s|'s|s')?$
 ^term(s|'s|s')?$
 ^terrestrial(s|'s|s')?$
 ^terrier(s|'s|s')?$
@@ -686,7 +669,6 @@
 ^tractor(s|'s|s')?$
 ^trader(s|'s|s')?$
 ^tradition(s|'s|s')?$
-^translator(s|'s|s')?$
 ^trapezoid(s|'s|s')?$
 ^treasur(y|ies|y's|ies')?$
 ^treat(y|ies|y's|ies')$

@@ -165,6 +165,7 @@
 ^commodit(y|ies|y's|ies')$
 ^communit(y|ies|y's|ies')$
 ^comparison(s|'s|s')?$
+^completion(s|'s|s')?$
 ^complex(es|'s|es')?$
 ^complexit(y|ies|y's|ies')$
 ^composite(s|'s|s')?$
@@ -174,9 +175,9 @@
 ^conclusion(s|'s|s')?$
 ^condition(s|'s|s')?$
 ^conduit(s|'s|s')?$
+^confusion(s|'s|s')?$
 ^congruence(s|'s|s')?$
 ^consequence(s|'s|s')?$
-^conservator(s|'s|s')?$
 ^consideration(s|'s|s')?$
 ^console(s|'s|s')?$
 ^constant(s|'s|s')?$
@@ -226,6 +227,7 @@
 ^demographic(s|'s|s')?$
 ^demon(s|'s|s')?$
 ^demo(s|'s|s')?$
+^demotion(s|'s|s')?$
 ^dendrite(s|'s|s')?$
 ^denial(s|'s|s')?$
 ^denier(s|'s|s')?$

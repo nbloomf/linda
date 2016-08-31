@@ -18,9 +18,11 @@
 ^associat(ion|or)(s|'s|s')?$
 ^attribut(ion|or)(s|'s|s')?$
 ^calculat(ion|or)(s|'s|s')?$
+^combinat(ion|or)(s|'s|s')?$
 ^communicat(ion|or)(s|'s|s')?$
 ^complicat(ion|or)(s|'s|s')?$
 ^conflat(ion|or)(s|'s|s')?$
+^conservat(ion|or)(s|'s|s')?$
 ^consolidat(ion|or)(s|'s|s')?$
 ^constipat(ion|or)(s|'s|s')?$
 ^contribut(ion|or)(s|'s|s')?$
@@ -49,6 +51,7 @@
 ^paginat(ion|or)(s|'s|s')?$
 ^percolat(ion|or)(s|'s|s')?$
 ^perforat(ion|or)(s|'s|s')?$
+^permutat(ion|or)(s|'s|s')?$
 ^persecut(ion|or)(s|'s|s')?$
 ^reciprocat(ion|or)(s|'s|s')?$
 ^recuperat(ion|or)(s|'s|s')?$

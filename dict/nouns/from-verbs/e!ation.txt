@@ -4,15 +4,12 @@
 ^adoration(s|'s|s')?$
 ^aspiration(s|'s|s')?$
 ^characterization(s|'s|s')?$
-^combination(s|'s|s')?$
 ^computation(s|'s|s')?$
-^conservation(s|'s|s')?$
 ^generalization(s|'s|s')?$
 ^localization(s|'s|s')?$
 ^observation(s|'s|s')?$
 ^optimization(s|'s|s')?$
 ^organization(s|'s|s')?$
-^permutation(s|'s|s')?$
 ^personalization(s|'s|s')?$
 ^perspiration(s|'s|s')?$
 ^realization(s|'s|s')?$

@@ -2,7 +2,6 @@
 
 cat $1 | \
   egrep -v -f ~/code/linda/dict/nouns.txt | \
-  egrep -v -f ~/code/linda/dict/nouns/e!ion.txt | \
   egrep -v -f ~/code/linda/dict/nouns/e!ion-or.txt | \
   egrep -v -f ~/code/linda/dict/nouns/e!ation.txt | \
   egrep -v -f ~/code/linda/dict/nouns/y!ication.txt | \

@@ -1,4 +1,4 @@
-^application(s|'s|s')?$
-^classification(s|'s|s')?$
-^implication(s|'s|s')?$
-^multiplication(s|'s|s')?$
+^appl(ication|icant|ier)(s|'s|s')?$
+^classif(ication|icand|ier)(s|'s|s')?$
+^impl(ication|icand|ier)(s|'s|s')?$
+^multipl(ication|icand|ier)(s|'s|s')?$

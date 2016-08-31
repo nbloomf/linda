@@ -1,3 +1,0 @@
-^completion(s|'s|s')?$
-^confusion(s|'s|s')?$
-^demotion(s|'s|s')?$

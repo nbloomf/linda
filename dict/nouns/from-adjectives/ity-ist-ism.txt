@@ -1,0 +1,14 @@
+^cardinal(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^equal(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^fatal(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^human(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^illegal(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^legal(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^mental(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^moral(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^real(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^technical(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^tonal(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^total(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^trivial(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^vulgar(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$

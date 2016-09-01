@@ -1,6 +1,7 @@
 ^access(es|ed|ing)?$
 ^address(es|ed|ing)?$
 ^affix(es|ed|ing)?$
+^aggress(es|ed|ing)?$
 ^airbrush(es|ed|ing)?$
 ^alias(es|ed|ing)?$
 ^annex(es|ed|ing)?$

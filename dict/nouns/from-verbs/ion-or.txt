@@ -1,0 +1,9 @@
+^act(ion|or)(s|'s|s')?$
+^aggress(ion|or)(s|'s|s')?$
+^assert(ion|or)(s|'s|s')?$
+^attract(ion|or)(s|'s|s')?$
+^collect(ion|or)(s|'s|s')?$
+^construct(ion|or)(s|'s|s')?$
+^deduct(ion|or)(s|'s|s')?$
+^direct(ion|or)(s|'s|s')?$
+^edit(ion|or)(s|'s|s')?$

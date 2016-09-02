@@ -6,7 +6,8 @@ cat $1 | \
   egrep -v -f ~/code/linda/dict/nouns/from-verbs/ion-or.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-verbs/e!ion-er.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-verbs/e!ation.txt | \
-  egrep -v -f ~/code/linda/dict/nouns/from-verbs/y!ication.txt | \
+  egrep -v -f ~/code/linda/dict/nouns/from-verbs/e!ation-er.txt | \
+  egrep -v -f ~/code/linda/dict/nouns/from-verbs/y!ication-icand-ier.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-verbs/ment.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-adjectives/ity-ist-ism.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs.txt | \

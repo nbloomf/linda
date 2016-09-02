@@ -1,4 +1,5 @@
 ^appl(ication|icant|ier)(s|'s|s')?$
 ^classif(ication|icand|ier)(s|'s|s')?$
 ^impl(ication|icand|ier)(s|'s|s')?$
+^modif(ication|icand|ier)(s|'s|s')?$
 ^multipl(ication|icand|ier)(s|'s|s')?$

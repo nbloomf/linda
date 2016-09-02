@@ -158,7 +158,6 @@
 ^complexit(y|ies|y's|ies')$
 ^composite(s|'s|s')?$
 ^composition(s|'s|s')?$
-^computer(s|'s|s')?$
 ^concept(s|'s|s')?$
 ^conclusion(s|'s|s')?$
 ^condition(s|'s|s')?$

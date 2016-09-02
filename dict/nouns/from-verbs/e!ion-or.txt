@@ -12,6 +12,7 @@
 ^agitat(ion|or)(s|'s|s')?$
 ^alliterat(ion|or)(s|'s|s')?$
 ^alternat(ion|or)(s|'s|s')?$
+^animat(ion|or)(s|'s|s')?$
 ^annihilat(ion|or)(s|'s|s')?$
 ^annotat(ion|or)(s|'s|s')?$
 ^anticipat(ion|or)(s|'s|s')?$

@@ -199,7 +199,7 @@
 ^curdle(s|'s|s')?$
 ^curd(s|'s|s')?$
 ^curfew(s|'s|s')?$
-^curiosit(y|ies|y's|ies')$
+^cycle(s|'s|s')$
 ^day(s|'s|s')?$
 ^decade(s|'s|s')?$
 ^decomposition(s|'s|s')?$
@@ -211,7 +211,7 @@
 ^demographic(s|'s|s')?$
 ^demon(s|'s|s')?$
 ^demo(s|'s|s')?$
-^demotion(s|'s|s')?$
+^demot(ion|er|ee)(s|'s|s')?$
 ^dendrite(s|'s|s')?$
 ^denial(s|'s|s')?$
 ^denier(s|'s|s')?$
@@ -275,7 +275,6 @@
 ^gap(s|'s|s')?$
 ^genealog(y|ies|y's|ies')$
 ^generalit(y|ies|y's|ies')$
-^generosit(y|ies|y's|ies')$
 ^geometr(y|ies|y's|ies')$
 ^grammar(s|'s|s')?$
 ^gratuit(y|ies|y's|ies')$
@@ -403,7 +402,6 @@
 ^monaster(y|ies|y's|ies')?$
 ^monk(s|'s|s')?$
 ^monopol(y|ies|y's|ies')?$
-^monstrosit(y|ies|y's|ies')$
 ^mound(s|'s|s')?$
 ^multiple(s|'s|s')?$
 ^multiplicand(s|'s|s')?$

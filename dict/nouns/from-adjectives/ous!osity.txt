@@ -1,0 +1,3 @@
+^curiosit(y|ies|y's|ies')$
+^generosit(y|ies|y's|ies')$
+^monstrosit(y|ies|y's|ies')$

@@ -12,6 +12,8 @@ cat $1 | \
   egrep -v -f ~/code/linda/dict/nouns/from-adjectives/ity-ist-ism.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-adjectives/e!ity-ist-ism.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-adjectives/ic!e-icist-icism.txt | \
+  egrep -v -f ~/code/linda/dict/nouns/from-adjectives/ous!ity.txt | \
+  egrep -v -f ~/code/linda/dict/nouns/from-adjectives/ous!osity.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs/s-ed-ing.txt | \
   egrep -v -f ~/code/linda/dict/regular-verbs/s-ped-ping.txt | \

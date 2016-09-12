@@ -1,0 +1,6 @@
+^enormit(y|ies|y's|ies')$
+^homogeneit(y|ies|y's|ies')$
+^incongruit(y|ies|y's|ies')$
+^incredulit(y|ies|y's|ies')$
+^magnanimit(y|ies|y's|ies')$
+^simultaneit(y|ies|y's|ies')$

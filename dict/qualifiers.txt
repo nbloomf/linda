@@ -41,7 +41,7 @@
 ^argumentative(ly)?$
 ^artful(ly)?$
 ^assiduous(ly)?$
-^astronomic(ally)?$
+^astronomic(al(ly)?)?$
 ^asymptotic(ally)?$
 ^athletic(ally)?$
 ^atmospheric(ally)?$

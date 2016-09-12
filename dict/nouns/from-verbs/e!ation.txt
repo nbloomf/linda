@@ -1,8 +1,0 @@
-^actualization(s|'s|s')?$
-^adoration(s|'s|s')?$
-^aspiration(s|'s|s')?$
-^characterization(s|'s|s')?$
-^perspiration(s|'s|s')?$
-^salutation(s|'s|s')?$
-^sensation(s|'s|s')?$
-^specialization(s|'s|s')?$

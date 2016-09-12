@@ -1,0 +1,1 @@
+^sens(ation|or)(s|'s|s')?$

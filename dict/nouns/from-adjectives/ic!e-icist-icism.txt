@@ -1,0 +1,3 @@
+^aesthet(e(s|'s|s')?|icist(s|'s|s')?|icism(s|'s|s')?)$
+^ascet(e(s|'s|s')?|icist(s|'s|s')?|icism(s|'s|s')?)$
+^athlet(e(s|'s|s')?|icist(s|'s|s')?|icism(s|'s|s')?)$

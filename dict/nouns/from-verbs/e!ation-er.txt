@@ -1,5 +1,9 @@
 ^accus(ation|er)(s|'s|s')?$
+^actualiz(ation|er)(s|'s|s')?$
 ^admir(ation|er)(s|'s|s')?$
+^ador(ation|er)(s|'s|s')?$
+^aspir(ation|er)(s|'s|s')?$
+^characteriz(ation|er)(s|'s|s')?$
 ^comput(ation|er)(s|'s|s')?$
 ^generaliz(ation|er)(s|'s|s')?$
 ^inclin(ation|er)(s|'s|s')?$
@@ -9,9 +13,12 @@
 ^optimiz(ation|er)(s|'s|s')?$
 ^organiz(ation|er)(s|'s|s')?$
 ^personaliz(ation|er)(s|'s|s')?$
+^perspir(ation|er)(s|'s|s')?$
 ^realiz(ation|er)(s|'s|s')?$
 ^restor(ation|er)(s|'s|s')?$
 ^revitaliz(ation|er)(s|'s|s')?$
+^salut(ation|er)(s|'s|s')?$
+^specializ(ation|er)(s|'s|s')?$
 ^utiliz(ation|er)(s|'s|s')?$
 ^vaporiz(ation|er)(s|'s|s')?$
 ^visualiz(ation|er)(s|'s|s')?$

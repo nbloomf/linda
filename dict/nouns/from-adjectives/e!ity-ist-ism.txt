@@ -1,0 +1,1 @@
+^activ(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$

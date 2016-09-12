@@ -1,0 +1,4 @@
+^inva(sion|der)(s|'s|s')?$
+^occlu(sion|der)(s|'s|s')?$
+^preten(sion|der)(s|'s|s')?$
+^suspen(sion|der)(s|'s|s')?$

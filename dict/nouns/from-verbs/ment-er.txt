@@ -1,0 +1,5 @@
+^adjust(ment|er)(s|'s|s')?$
+^align(ment|er)(s|'s|s')?$
+^contain(ment|er)(s|'s|s')?$
+^develop(ment|er)(s|'s|s')?$
+^refresh(ment|er)(s|'s|s')?$

@@ -13,15 +13,11 @@
 ^acquiescence(s|'s|s')?$
 ^activit(y|ies|y's|ies')$
 ^actuar(y|ies|y's|ies')$
-^adaptation(s|'s|s')?$
-^adapter(s|'s|s')?$
 ^addict(s|'s|s')?$
 ^addition(s|'s|s')?$
 ^adhesion(s|'s|s')?$
 ^adhesive(s|'s|s')?$
 ^adjunct(s|'s|s')?$
-^adjuster(s|'s|s')?$
-^admirer(s|'s|s')?$
 ^admonition(s|'s|s')?$
 ^advantage(s|'s|s')?$
 ^adventurer(s|'s|s')?$
@@ -170,7 +166,6 @@
 ^constant(s|'s|s')?$
 ^constraint(s|'s|s')?$
 ^consummation(s|'s|s')?$
-^container(s|'s|s')?$
 ^content(s|'s|s')?$
 ^context(s|'s|s')?$
 ^contradiction(s|'s|s')?$
@@ -222,7 +217,6 @@
 ^detail(s|'s|s')?$
 ^determinant(s|'s|s')?$
 ^detractor(s|'s|s')?$
-^developer(s|'s|s')?$
 ^diagonal(s|'s|s')?$
 ^diagram(s|'s|s')?$
 ^difference(s|'s|s')?$
@@ -310,8 +304,6 @@
 ^immoralit(y|ies|y's|ies')?$
 ^impiet(y|ies|y's|ies')?$
 ^implausibilit(y|ies|y's|ies')?$
-^implementation(s|'s|s')?$
-^implementor(s|'s|s')?$
 ^impossibilit(y|ies|y's|ies')$
 ^improbabilit(y|ies|y's|ies')?$
 ^impropriet(y|ies|y's|ies')$
@@ -499,7 +491,6 @@
 ^relationship(s|'s|s')?$
 ^remainder(s|'s|s')?$
 ^rent(s|'s|s')?$
-^representation(s|'s|s')?$
 ^residue(s|'s|s')?$
 ^resolution(s|'s|s')?$
 ^responsibilit(y|ies|y's|ies')$

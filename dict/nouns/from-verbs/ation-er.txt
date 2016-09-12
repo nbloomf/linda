@@ -1,0 +1,7 @@
+^adapt(ation|er)(s|'s|s')?$
+^confront(ation|er)(s|'s|s')?$
+^experiment(ation|er)(s|'s|s')?$
+^ferment(ation|er)(s|'s|s')?$
+^implement(ation|er)(s|'s|s')?$
+^interpret(ation|er)(s|'s|s')?$
+^represent(ation|er)(s|'s|s')?$

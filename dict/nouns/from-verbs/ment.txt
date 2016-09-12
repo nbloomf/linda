@@ -1,15 +1,11 @@
 ^achievement(s|'s|s')?$
-^adjustment(s|'s|s')?$
 ^adornment(s|'s|s')?$
 ^advancement(s|'s|s')?$
 ^advertisement(s|'s|s')?$
-^alignment(s|'s|s')?$
 ^announcement(s|'s|s')?$
 ^appeasement(s|'s|s')?$
 ^arrangement(s|'s|s')?$
 ^confinement(s|'s|s')?$
-^containment(s|'s|s')?$
-^development(s|'s|s')?$
 ^pavement(s|'s|s')?$
 ^rearrangement(s|'s|s')?$
 ^refinement(s|'s|s')?$

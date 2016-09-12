@@ -1,3 +1,6 @@
 ^curiosit(y|ies|y's|ies')$
 ^generosit(y|ies|y's|ies')$
+^luminosit(y|ies|y's|ies')$
 ^monstrosit(y|ies|y's|ies')$
+^pomposit(y|ies|y's|ies')$
+^virtuosit(y|ies|y's|ies')$

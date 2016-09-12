@@ -1,6 +1,14 @@
+^anonymit(y|ies|y's|ies')$
+^credulit(y|ies|y's|ies')$
 ^enormit(y|ies|y's|ies')$
+^garrulit(y|ies|y's|ies')$
+^heterogeneit(y|ies|y's|ies')$
 ^homogeneit(y|ies|y's|ies')$
 ^incongruit(y|ies|y's|ies')$
 ^incredulit(y|ies|y's|ies')$
 ^magnanimit(y|ies|y's|ies')$
+^prosperit(y|ies|y's|ies')$
 ^simultaneit(y|ies|y's|ies')$
+^spontaneit(y|ies|y's|ies')$
+^unanimit(y|ies|y's|ies')$
+^vacuosit(y|ies|y's|ies')$

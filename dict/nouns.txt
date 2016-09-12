@@ -320,7 +320,6 @@
 ^inclusion(s|'s|s')?$
 ^incompatibilit(y|ies|y's|ies')?$
 ^incongruit(y|ies|y's|ies')?$
-^indecenc(y|ies|y's|ies')?$
 ^indelicac(y|ies|y's|ies')?$
 ^indemnit(y|ies|y's|ies')$
 ^indignit(y|ies|y's|ies')?$

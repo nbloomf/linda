@@ -21,6 +21,7 @@
 ^attribut(ion|or)(s|'s|s')?$
 ^calculat(ion|or)(s|'s|s')?$
 ^combinat(ion|or)(s|'s|s')?$
+^commentat(ion|or)(s|'s|s')?$
 ^communicat(ion|or)(s|'s|s')?$
 ^complicat(ion|or)(s|'s|s')?$
 ^conflat(ion|or)(s|'s|s')?$

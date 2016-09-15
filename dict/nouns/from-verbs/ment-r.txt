@@ -2,6 +2,10 @@
 ^advance(ment|r)(s|'s|s')?$
 ^advertise(ment|r)(s|'s|s')?$
 ^announce(ment|r)(s|'s|s')?$
+^appease(ment|r)(s|'s|s')?$
+^arrange(ment|r)(s|'s|s')?$
+^confine(ment|r)(s|'s|s')?$
 ^pave(ment|r)(s|'s|s')?$
 ^rearrange(ment|r)(s|'s|s')?$
 ^refine(ment|r)(s|'s|s')?$
+^state(ment|r)(s|'s|s')?$

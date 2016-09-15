@@ -10,7 +10,6 @@ cat $1 | \
   egrep -v -f ~/code/linda/dict/nouns/from-verbs/e!ation-or.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-verbs/y!ication-icand-ier.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-verbs/y!ication-icant-ier.txt | \
-  egrep -v -f ~/code/linda/dict/nouns/from-verbs/ment.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-verbs/ment-r.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-verbs/ment-er.txt | \
   egrep -v -f ~/code/linda/dict/nouns/from-adjectives/ity-ist-ism.txt | \

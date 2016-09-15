@@ -1,5 +1,0 @@
-^adornment(s|'s|s')?$
-^appeasement(s|'s|s')?$
-^arrangement(s|'s|s')?$
-^confinement(s|'s|s')?$
-^statement(s|'s|s')?$

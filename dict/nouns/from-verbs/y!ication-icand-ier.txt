@@ -1,5 +1,12 @@
-^appl(ication|icant|ier)(s|'s|s')?$
 ^classif(ication|icand|ier)(s|'s|s')?$
+^fortif(ication|icand|ier)(s|'s|s')?$
+^humidif(ication|icand|ier)(s|'s|s')?$
 ^impl(ication|icand|ier)(s|'s|s')?$
+^intensif(ication|icand|ier)(s|'s|s')?$
+^magnif(ication|icand|ier)(s|'s|s')?$
 ^modif(ication|icand|ier)(s|'s|s')?$
 ^multipl(ication|icand|ier)(s|'s|s')?$
+^ratif(ication|icand|ier)(s|'s|s')?$
+^signif(ication|icand|ier)(s|'s|s')?$
+^specif(ication|icand|ier)(s|'s|s')?$
+^unif(ication|icand|ier)(s|'s|s')?$

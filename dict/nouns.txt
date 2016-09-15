@@ -9,7 +9,6 @@
 ^academician(s|'s|s')?$
 ^accessor(y|ies|y's|ies')$
 ^accident(s|'s|s')?$
-^accuser(s|'s|s')?$
 ^acquiescence(s|'s|s')?$
 ^activit(y|ies|y's|ies')$
 ^actuar(y|ies|y's|ies')$
@@ -59,7 +58,6 @@
 ^angle(s|'s|s')?$
 ^animal(s|'s|s')?$
 ^anniversar(y|ies|y's|ies')$
-^announcer(s|'s|s')?$
 ^annulment(s|'s|s')?$
 ^anomal(y|ies|y's|ies')$
 ^answer(s|'s|s')?$
@@ -143,7 +141,6 @@
 ^class(es|'|es')$
 ^coast(s|'s|s')?$
 ^coefficient(s|'s|s')?$
-^coincidence(s|'s|s')?$
 ^college(s|'s|s')?$
 ^color(s|'s|s')?$
 ^column(s|'s|s')?$
@@ -159,8 +156,6 @@
 ^condition(s|'s|s')?$
 ^conduit(s|'s|s')?$
 ^confusion(s|'s|s')?$
-^congruence(s|'s|s')?$
-^consequence(s|'s|s')?$
 ^consideration(s|'s|s')?$
 ^console(s|'s|s')?$
 ^constant(s|'s|s')?$
@@ -219,7 +214,6 @@
 ^detractor(s|'s|s')?$
 ^diagonal(s|'s|s')?$
 ^diagram(s|'s|s')?$
-^difference(s|'s|s')?$
 ^difficult(y|ies|y's|ies')$
 ^ear(s|'s|s')?$
 ^effort(s|'s|s')?$
@@ -231,7 +225,6 @@
 ^enormit(y|ies|y's|ies')$
 ^entr(y|ies|y's|ies')$
 ^equit(y|ies|y's|ies')$
-^equivalence(s|'s|s')?$
 ^eternit(y|ies|y's|ies')$
 ^example(s|'s|s')?$
 ^excenter(s|'s|s')?$
@@ -293,7 +286,6 @@
 ^hubcap(s|'s|s')?$
 ^hullabaloo(s|'s|s')?$
 ^humanitarian(s|'s|s')?$
-^humidifier(s|'s|s')?$
 ^hummingbird(s|'s|s')?$
 ^humor(s|'s|s')?$
 ^ideal(s|'s|s')?$
@@ -307,7 +299,6 @@
 ^impossibilit(y|ies|y's|ies')$
 ^improbabilit(y|ies|y's|ies')?$
 ^impropriet(y|ies|y's|ies')$
-^impurit(y|ies|y's|ies')$
 ^inabilit(y|ies|y's|ies')?$
 ^inaccurac(y|ies|y's|ies')?$
 ^inadequac(y|ies|y's|ies')?$
@@ -335,8 +326,9 @@
 ^interior(s|'s|s')?$
 ^intersection(s|'s|s')?$
 ^interval(s|'s|s')?$
-^intuition(s|'s|s')?$
 ^inverse(s|'s|s')?$
+^inversion(s|'s|s')?$
+^inverter(s|'s|s')?$
 ^jewelr(y|ies|y's|ies')?$
 ^jiff(y|ies|y's|ies')?$
 ^judiciar(y|ies|y's|ies')?$
@@ -395,7 +387,6 @@
 ^monopol(y|ies|y's|ies')?$
 ^mound(s|'s|s')?$
 ^multiple(s|'s|s')?$
-^multiplicand(s|'s|s')?$
 ^multiplicit(y|ies|y's|ies')$
 ^muscle(s|'s|s')?$
 ^nail(s|'s|s')?$
@@ -442,7 +433,6 @@
 ^plausibilit(y|ies|y's|ies')$
 ^polynomial(s|'s|s')?$
 ^portion(s|'s|s')?$
-^position(s|'s|s')?$
 ^possibilit(y|ies|y's|ies')$
 ^postulate(s|'s|s')?$
 ^potentialit(y|ies|y's|ies')$
@@ -494,7 +484,6 @@
 ^resolution(s|'s|s')?$
 ^responsibilit(y|ies|y's|ies')$
 ^restorer(s|'s|s')?$
-^restriction(s|'s|s')?$
 ^resultant(s|'s|s')?$
 ^result(s|'s|s')?$
 ^rhapsod(y|ies|y's|ies')?$

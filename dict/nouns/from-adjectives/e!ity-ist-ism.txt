@@ -1,1 +1,3 @@
 ^activ(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^impur(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^pur(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$

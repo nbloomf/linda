@@ -1,3 +1,4 @@
 ^aspers(ion|er)(s|'s|s')?$
 ^complet(ion|er)(s|'s|s')?$
 ^diffus(ion|er)(s|'s|s')?$
+^ignit(ion|er)(s|'s|s')?$

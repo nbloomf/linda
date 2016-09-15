@@ -1,0 +1,7 @@
+^achieve(ment|r)(s|'s|s')?$
+^advance(ment|r)(s|'s|s')?$
+^advertise(ment|r)(s|'s|s')?$
+^announce(ment|r)(s|'s|s')?$
+^pave(ment|r)(s|'s|s')?$
+^rearrange(ment|r)(s|'s|s')?$
+^refine(ment|r)(s|'s|s')?$

@@ -3,7 +3,14 @@
 ^assert(ion|or)(s|'s|s')?$
 ^attract(ion|or)(s|'s|s')?$
 ^collect(ion|or)(s|'s|s')?$
+^constrict(ion|or)(s|'s|s')?$
 ^construct(ion|or)(s|'s|s')?$
 ^deduct(ion|or)(s|'s|s')?$
 ^direct(ion|or)(s|'s|s')?$
 ^edit(ion|or)(s|'s|s')?$
+^exhibit(ion|or)(s|'s|s')?$
+^inhibit(ion|or)(s|'s|s')?$
+^intuit(ion|or)(s|'s|s')?$
+^posit(ion|or)(s|'s|s')?$
+^prohibit(ion|or)(s|'s|s')?$
+^restrict(ion|or)(s|'s|s')?$

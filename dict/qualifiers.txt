@@ -215,6 +215,7 @@
 ^fierce(ly)?$
 ^figurative(ly)?$
 ^final(ly)?$
+^finite(ly)?$
 ^firm(ly)?$
 ^fitful(ly)?$
 ^forceful(ly)?$
@@ -266,6 +267,7 @@
 ^horizontal(ly)?$
 ^horrendous(ly)?$
 ^horrid(ly)?$
+^huge(ly)?$
 ^hyperbolic(ally)?$
 ^ideal(ly)?$
 ^immediate(ly)?$
@@ -317,6 +319,7 @@
 ^inherent(ly)?$
 ^inhuman(ly)?$
 ^inimical(ly)?$
+^injective(ly)?$
 ^innate(ly)?$
 ^innocent(ly)?$
 ^inquiring(ly)?$
@@ -589,8 +592,10 @@
 ^successive(ly)?$
 ^sudden(ly)?$
 ^sufficient(ly)?$
+^suggestive(ly)?$
 ^supposed(ly)?$
 ^sure(ly)?$
+^surjective(ly)?$
 ^sweet(ly)?$
 ^symbolic(ally)?$
 ^sympathetic(ally)?$

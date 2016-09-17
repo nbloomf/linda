@@ -3,7 +3,6 @@
 ^absolution(s|'s|s')?$
 ^abstainer(s|'s|s')?$
 ^abstention(s|'s|s')?$
-^abstraction(s|'s|s')?$
 ^abutment(s|'s|s')?$
 ^abyss(es|'|es')?$
 ^academician(s|'s|s')?$
@@ -13,8 +12,6 @@
 ^activit(y|ies|y's|ies')$
 ^actuar(y|ies|y's|ies')$
 ^addict(s|'s|s')?$
-^addition(s|'s|s')?$
-^adhesion(s|'s|s')?$
 ^adhesive(s|'s|s')?$
 ^adjunct(s|'s|s')?$
 ^advantage(s|'s|s')?$
@@ -27,7 +24,6 @@
 ^affair(s|'s|s')?$
 ^affiliate(s|'s|s')?$
 ^affix(es|'s|es')?$
-^affliction(s|'s|s')?$
 ^aftertaste(s|'s|s')?$
 ^agate(s|'s|s')?$
 ^airline(s|'s|s')?$
@@ -91,7 +87,6 @@
 ^aspect(s|'s|s')?$
 ^asphalt(s|'s|s')?$
 ^ass(es|'|es')?$
-^assumption(s|'s|s')?$
 ^atom(s|'s|s')?$
 ^atrocit(y|ies|y's|ies')$
 ^attic(s|'s|s')?$
@@ -150,10 +145,8 @@
 ^complexit(y|ies|y's|ies')$
 ^composite(s|'s|s')?$
 ^concept(s|'s|s')?$
-^conclusion(s|'s|s')?$
 ^condition(s|'s|s')?$
 ^conduit(s|'s|s')?$
-^confusion(s|'s|s')?$
 ^consideration(s|'s|s')?$
 ^console(s|'s|s')?$
 ^constant(s|'s|s')?$
@@ -225,7 +218,6 @@
 ^example(s|'s|s')?$
 ^excenter(s|'s|s')?$
 ^excircle(s|'s|s')?$
-^expansion(s|'s|s')?$
 ^explosion(s|'s|s')?$
 ^exponent(s|'s|s')?$
 ^expression(s|'s|s')?$
@@ -468,7 +460,6 @@
 ^ray(s|'s|s')?$
 ^reader(s|'s|s')?$
 ^reciprocal(s|'s|s')?$
-^recognition(s|'s|s')?$
 ^rectangle(s|'s|s')?$
 ^region(s|'s|s')?$
 ^relationship(s|'s|s')?$

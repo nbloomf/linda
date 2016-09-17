@@ -1,0 +1,1 @@
+^afflict(ion|er)(s|'s|s')?$

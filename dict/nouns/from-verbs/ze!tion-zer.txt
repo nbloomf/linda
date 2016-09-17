@@ -1,0 +1,1 @@
+^recogni(tion|zer)(s|'s|s')?$

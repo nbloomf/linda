@@ -1,0 +1,3 @@
+^assum(ption|er)(s|'s|s')?$
+^presum(ption|er)(s|'s|s')?$
+^resum(ption|er)(s|'s|s')?$

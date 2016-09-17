@@ -2,3 +2,5 @@
 ^occlu(sion|der)(s|'s|s')?$
 ^preten(sion|der)(s|'s|s')?$
 ^suspen(sion|der)(s|'s|s')?$
+^expan(sion|der)(s|'s|s')?$
+^provi(sion|der)(s|'s|s')?$

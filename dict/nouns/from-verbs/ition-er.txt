@@ -1,0 +1,1 @@
+^add(ition|er)(s|'s|s')?$

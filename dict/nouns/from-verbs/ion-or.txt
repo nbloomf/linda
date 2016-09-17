@@ -14,3 +14,4 @@
 ^posit(ion|or)(s|'s|s')?$
 ^prohibit(ion|or)(s|'s|s')?$
 ^restrict(ion|or)(s|'s|s')?$
+^abstract(ion|or)(s|'s|s')?$

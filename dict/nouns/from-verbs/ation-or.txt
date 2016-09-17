@@ -1,0 +1,1 @@
+^solicit(ation|or)(s|'s|s')?$

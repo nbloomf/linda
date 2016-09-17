@@ -19,6 +19,7 @@
 ^revitaliz(ation|er)(s|'s|s')?$
 ^salut(ation|er)(s|'s|s')?$
 ^specializ(ation|er)(s|'s|s')?$
+^stabiliz(ation|er)(s|'s|s')?$
 ^utiliz(ation|er)(s|'s|s')?$
 ^vaporiz(ation|er)(s|'s|s')?$
 ^visualiz(ation|er)(s|'s|s')?$

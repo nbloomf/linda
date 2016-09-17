@@ -17,7 +17,6 @@
 ^adhesion(s|'s|s')?$
 ^adhesive(s|'s|s')?$
 ^adjunct(s|'s|s')?$
-^admonition(s|'s|s')?$
 ^advantage(s|'s|s')?$
 ^adventurer(s|'s|s')?$
 ^adventure(s|'s|s')?$
@@ -150,7 +149,6 @@
 ^complex(es|'s|es')?$
 ^complexit(y|ies|y's|ies')$
 ^composite(s|'s|s')?$
-^composition(s|'s|s')?$
 ^concept(s|'s|s')?$
 ^conclusion(s|'s|s')?$
 ^condition(s|'s|s')?$
@@ -192,8 +190,6 @@
 ^cycle(s|'s|s')$
 ^day(s|'s|s')?$
 ^decade(s|'s|s')?$
-^decomposition(s|'s|s')?$
-^definition(s|'s|s')?$
 ^defoliant(s|'s|s')?$
 ^degree(s|'s|s')?$
 ^democrat(s|'s|s')?$
@@ -455,8 +451,6 @@
 ^proof(s|'s|s')?$
 ^propert(y|ies|y's|ies')$
 ^proposal(s|'s|s')?$
-^proposer(s|'s|s')?$
-^proposition(s|'s|s')?$
 ^provocation(s|'s|s')?$
 ^punchline(s|'s|s')?$
 ^quadrilateral(s|'s|s')?$

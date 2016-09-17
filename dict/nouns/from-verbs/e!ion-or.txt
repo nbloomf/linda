@@ -61,5 +61,8 @@
 ^rededicat(ion|or)(s|'s|s')?$
 ^relat(ion|or)(s|'s|s')?$
 ^separat(ion|or)(s|'s|s')?$
+^speculat(ion|or)(s|'s|s')?$
 ^terminat(ion|or)(s|'s|s')?$
 ^translat(ion|or)(s|'s|s')?$
+^undulat(ion|or)(s|'s|s')?$
+^violat(ion|or)(s|'s|s')?$

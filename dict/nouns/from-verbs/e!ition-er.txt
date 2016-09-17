@@ -1,0 +1,4 @@
+^compos(ition|er)(s|'s|s')?$
+^decompos(ition|er)(s|'s|s')?$
+^defin(ition|er)(s|'s|s')?$
+^propos(ition|er)(s|'s|s')?$

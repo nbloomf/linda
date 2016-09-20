@@ -1,3 +1,4 @@
+^abstract(ion|or)(s|'s|s')?$
 ^act(ion|or)(s|'s|s')?$
 ^aggress(ion|or)(s|'s|s')?$
 ^assert(ion|or)(s|'s|s')?$
@@ -14,4 +15,3 @@
 ^posit(ion|or)(s|'s|s')?$
 ^prohibit(ion|or)(s|'s|s')?$
 ^restrict(ion|or)(s|'s|s')?$
-^abstract(ion|or)(s|'s|s')?$

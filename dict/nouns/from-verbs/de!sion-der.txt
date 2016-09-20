@@ -1,1 +1,5 @@
+^collu(sion|der)(s|'s|s')?$
 ^conclu(sion|der)(s|'s|s')?$
+^inva(sion|der)(s|'s|s')?$
+^occlu(sion|der)(s|'s|s')?$
+^provi(sion|der)(s|'s|s')?$

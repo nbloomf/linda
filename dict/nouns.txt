@@ -132,6 +132,7 @@
 ^chord(s|'s|s')?$
 ^circle(s|'s|s')?$
 ^circumcenter(s|'s|s')?$
+^circumcircle(s|'s|s')?$
 ^class(es|'|es')$
 ^coast(s|'s|s')?$
 ^coefficient(s|'s|s')?$

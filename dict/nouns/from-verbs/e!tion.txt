@@ -1,0 +1,4 @@
+^conduc(tion|er)(s|'s|s')?$
+^induc(tion|er)(s|'s|s')?$
+^introduc(tion|er)(s|'s|s')?$
+^produc(tion|er)(s|'s|s')?$

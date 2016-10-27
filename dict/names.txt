@@ -11,6 +11,7 @@
 ^euler('s)?$
 ^fano('s)?$
 ^fermat('s)?$
+^gans$
 ^gauss('|ian)?$
 ^grassmann('s|ian)?$
 ^hensel('s)?$
@@ -24,4 +25,3 @@
 ^venn('s)?$
 ^wilson('s)?$
 ^zorn('s)?$
-^gans$

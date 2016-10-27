@@ -2,6 +2,7 @@
 ^absorb(s|ed|ing)?$
 ^abstain(s|ed|ing)?$
 ^accept(s|ed|ing)?$
+^acclaim(s|ed|ing)?$
 ^account(s|ed|ing)?$
 ^acquaint(s|ed|ing)?$
 ^act(s|ed|ing)?$
@@ -47,14 +48,18 @@
 ^blast(s|ed|ing)?$
 ^blend(s|ed|ing)?$
 ^block(s|ed|ing)?$
+^bloom(s|ed|ing)?$
+^blossom(s|ed|ing)?$
 ^blunder(s|ed|ing)?$
 ^bolt(s|ed|ing)?$
 ^book(s|ed|ing)?$
+^boom(s|ed|ing)?$
 ^boot(s|ed|ing)?$
 ^border(s|ed|ing)?$
 ^bother(s|ed|ing)?$
 ^bound(s|ed|ing)?$
 ^bow(s|ed|ing)?$
+^brainstorm(s|ed|ing)?$
 ^brood(s|ed|ing)?$
 ^bump(s|ed|ing)?$
 ^burn(s|ed|ing)?$
@@ -89,6 +94,7 @@
 ^concern(s|ed|ing)?$
 ^conduct(s|ed|ing)?$
 ^confirm(s|ed|ing)?$
+^conform(s|ed|ing)?$
 ^connect(s|ed|ing)?$
 ^consider(s|ed|ing)?$
 ^consist(s|ed|ing)?$
@@ -449,8 +455,11 @@
 ^sigh(s|ed|ing)?$
 ^sight(s|ed|ing)?$
 ^sing(s|ed|ing)?$
+^skyrocket(s|ed|ing)?$
 ^slacken(s|ed|ing)?$
+^slant(s|ed|ing)?$
 ^smack(s|ed|ing)?$
+^smart(s|ed|ing)?$
 ^smother(s|ed|ing)?$
 ^sneak(s|ed|ing)?$
 ^sneer(s|ed|ing)?$
@@ -517,6 +526,7 @@
 ^suggest(s|ed|ing)?$
 ^suit(s|ed|ing)?$
 ^summon(s|ed|ing)?$
+^supplant(s|ed|ing)?$
 ^supplement(s|ed|ing)?$
 ^support(s|ed|ing)?$
 ^surmount(s|ed|ing)?$
@@ -545,6 +555,7 @@
 ^tamp(s|ed|ing)?$
 ^tank(s|ed|ing)?$
 ^taper(s|ed|ing)?$
+^target(s|ed|ing)?$
 ^task(s|ed|ing)?$
 ^tatter(s|ed|ing)?$
 ^tattoo(s|ed|ing)?$
@@ -553,6 +564,7 @@
 ^teem(s|ed|ing)?$
 ^teeter(s|ed|ing)?$
 ^telegraph(s|ed|ing)?$
+^telemarket(s|ed|ing)?$
 ^temper(s|ed|ing)?$
 ^temp(s|ed|ing)?$
 ^tempt(s|ed|ing)?$

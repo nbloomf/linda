@@ -51,10 +51,12 @@
 ^epox(y|ies|ied|ying)$
 ^exemplif(y|ies|ied|ying)$
 ^falsif(y|ies|ied|ying)$
+^fanc(y|ies|ied|ying)$
 ^fantas(y|ies|ied|ying)$
 ^ferr(y|ies|ied|ying)$
 ^flurr(y|ies|ied|ying)$
 ^fortif(y|ies|ied|ying)$
+^fructif(y|ies|ied|ying)$
 ^fr(y|ies|ied|ying)$
 ^gentrif(y|ies|ied|ying)$
 ^glorif(y|ies|ied|ying)$
@@ -92,6 +94,7 @@
 ^ossif(y|ies|ied|ying)$
 ^oversimplif(y|ies|ied|ying)$
 ^pacif(y|ies|ied|ying)$
+^parod(y|ies|ied|ying)$
 ^parr(y|ies|ied|ying)$
 ^personif(y|ies|ied|ying)$
 ^petrif(y|ies|ied|ying)$
@@ -144,10 +147,14 @@
 ^terrif(y|ies|ied|ying)$
 ^testif(y|ies|ied|ying)$
 ^tid(y|ies|ied|ying)$
+^toad(y|ies|ied|ying)$
 ^tr(y|ies|ied|ying)$
 ^typif(y|ies|ied|ying)$
 ^understud(y|ies|ied|ying)$
 ^unif(y|ies|ied|ying)$
 ^var(y|ies|ied|ying)$
 ^verif(y|ies|ied|ying)$
+^vilif(y|ies|ied|ying)$
+^wear(y|ies|ied|ying)$
+^whinn(y|ies|ied|ying)$
 ^worr(y|ies|ied|ying)$

@@ -25,8 +25,15 @@
 ^peg(s|ged|ging)?$
 ^pig(s|ged|ging)?$
 ^plug(s|ged|ging)?$
+^sag(s|ged|ging)?$
 ^shrug(s|ged|ging)?$
 ^slog(s|ged|ging)?$
+^slug(s|ged|ging)?$
+^snag(s|ged|ging)?$
+^swig(s|ged|ging)?$
+^tag(s|ged|ging)?$
+^tug(s|ged|ging)?$
 ^unplug(s|ged|ging)?$
 ^wag(s|ged|ging)?$
+^wig(s|ged|ging)?$
 ^zigzag(s|ged|ging)?$

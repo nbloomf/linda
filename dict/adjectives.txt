@@ -4,10 +4,27 @@
 ^angr(y|ier|iest)$
 ^available$
 ^average$
+^bagg(y|ier|iest)$
+^batt(y|ier|iest)$
 ^black(er|est)?$
+^bleak(er|est)?$
 ^blind(er|est)?$
+^blurr(y|ier|iest)$
+^bold(er|est)?$
+^boss(y|ier|iest)$
+^bounc(y|ier|iest)$
 ^box(y|ier|iest)$
+^bratt(y|ier|iest)$
 ^bright(er|est)?$
+^broad(er|est)?$
+^bubbl(y|ier|iest)$
+^burl(y|ier|iest)$
+^bush(y|ier|iest)$
+^cag(y|ier|iest)$
+^catch(y|ier|iest)$
+^catt(y|ier|iest)$
+^cheek(y|ier|iest)$
+^cheer(y|ier|iest)$
 ^choos(y|ier|iest)$
 ^chopp(y|ier|iest)$
 ^chubb(y|ier|iest)$
@@ -54,6 +71,7 @@
 ^dark(er|est)?$
 ^deep(er|est)?$
 ^dew(y|ier|iest)$
+^dic(y|ier|iest)$
 ^ding(y|ier|iest)$
 ^dink(y|ier|iest)$
 ^dirt(y|ier|iest)$
@@ -91,9 +109,11 @@
 ^flesh(y|ier|iest)$
 ^flight(y|ier|iest)$
 ^flims(y|ier|iest)$
+^flopp(y|ier|iest)$
 ^foam(y|ier|iest)$
 ^fogg(y|ier|iest)$
 ^folks(y|ier|iest)$
+^fond(er|est)?$
 ^foolhard(y|ier|iest)$
 ^fox(y|ier|iest)$
 ^freak(y|ier|iest)$
@@ -102,6 +122,7 @@
 ^frizz(y|ier|iest)$
 ^frost(y|ier|iest)$
 ^froth(y|ier|iest)$
+^fruit(y|ier|iest)$
 ^frump(y|ier|iest)$
 ^full(er|est)?$
 ^funk(y|ier|iest)$
@@ -115,6 +136,7 @@
 ^gass(y|ier|iest)$
 ^gaud(y|ier|iest)$
 ^gauz(y|ier|iest)$
+^gawk(y|ier|iest)$
 ^geek(y|ier|iest)$
 ^ghostl(y|ier|iest)$
 ^gidd(y|ier|iest)$
@@ -205,6 +227,7 @@
 ^loon(y|ier|iest)$
 ^loop(y|ier|iest)$
 ^lordl(y|ier|iest)$
+^loud(er|est)?$
 ^lous(y|ier|iest)$
 ^lovel(y|ier|iest)$
 ^low(er|est)?$
@@ -217,9 +240,11 @@
 ^meal(y|ier|iest)$
 ^measl(y|ier|iest)$
 ^meat(y|ier|iest)$
+^meek(er|est)?$
 ^merr(y|ier|iest)$
 ^mess(y|ier|iest)$
 ^might(y|ier|iest)$
+^mild(er|est)?$
 ^milk(y|ier|iest)$
 ^mint(y|ier|iest)$
 ^mold(y|ier|iest)$
@@ -227,6 +252,7 @@
 ^moss(y|ier|iest)$
 ^mous(y|ier|iest)$
 ^muck(y|ier|iest)$
+^mudd(y|ier|iest)$
 ^mugg(y|ier|iest)$
 ^murk(y|ier|iest)$
 ^mush(y|ier|iest)$
@@ -247,6 +273,7 @@
 ^nos(y|ier|iest)$
 ^nutt(y|ier|iest)$
 ^oil(y|ier|iest)$
+^old(er|est)?$
 ^orner(y|ier|iest)$
 ^paltr(y|ier|iest)$
 ^panick(y|ier|iest)$
@@ -263,6 +290,7 @@
 ^pick(y|ier|iest)$
 ^pigg(y|ier|iest)$
 ^pimpl(y|ier|iest)$
+^pink(er|est)?$
 ^pith(y|ier|iest)$
 ^plain(er|est)?$
 ^pluck(y|ier|iest)$
@@ -277,6 +305,7 @@
 ^pric(y|ier|iest)$
 ^priestl(y|ier|iest)$
 ^princel(y|ier|iest)$
+^proud(er|est)?$
 ^pudg(y|ier|iest)$
 ^puff(y|ier|iest)$
 ^pulp(y|ier|iest)$
@@ -285,6 +314,7 @@
 ^push(y|ier|iest)$
 ^queas(y|ier|iest)$
 ^queenl(y|ier|iest)$
+^quick(er|est)?$
 ^quiet(er|est)?$
 ^quirk(y|ier|iest)$
 ^rac(y|ier|iest)$
@@ -297,6 +327,7 @@
 ^rock(y|ier|iest)$
 ^room(y|ier|iest)$
 ^ros(y|ier|iest)$
+^round(er|est)?$
 ^rowd(y|ier|iest)$
 ^rudd(y|ier|iest)$
 ^rust(y|ier|iest)$
@@ -341,6 +372,7 @@
 ^slaphapp(y|ier|iest)$
 ^sleaz(y|ier|iest)$
 ^sleep(y|ier|iest)$
+^slick(er|est)?$
 ^slim(y|ier|iest)$
 ^slink(y|ier|iest)$
 ^slipper(y|ier|iest)$
@@ -390,6 +422,7 @@
 ^squiggl(y|ier|iest)$
 ^squirm(y|ier|iest)$
 ^starch(y|ier|iest)$
+^stark(er|est)?$
 ^starr(y|ier|iest)$
 ^statel(y|ier|iest)$
 ^stealth(y|ier|iest)$
@@ -415,6 +448,9 @@
 ^subtle(r|st)?$
 ^suds(y|ier|iest)$
 ^sugar(y|ier|iest)$
+^sultr(y|ier|iest)$
+^sunn(y|ier|iest)$
+^surl(y|ier|iest)$
 ^swamp(y|ier|iest)$
 ^swank(y|ier|iest)$
 ^swarth(y|ier|iest)$
@@ -433,6 +469,7 @@
 ^thorn(y|ier|iest)$
 ^thrift(y|ier|iest)$
 ^throat(y|ier|iest)$
+^tid(y|ier|iest)$
 ^timel(y|ier|iest)$
 ^tingl(y|ier|iest)$
 ^tinn(y|ier|iest)$
@@ -456,6 +493,7 @@
 ^unhol(y|ier|iest)$
 ^unlikel(y|ier|iest)$
 ^unluck(y|ier|iest)$
+^unrul(y|ier|iest)$
 ^unwield(y|ier|iest)$
 ^unworth(y|ier|iest)$
 ^velvet(y|ier|iest)$
@@ -469,10 +507,17 @@
 ^weak(er|est)?$
 ^wealth(y|ier|iest)$
 ^wear(y|ier|iest)$
+^weird(er|est)?$
+^whin(y|ier|iest)$
 ^wide(r|st)?$
+^wild(er|est)?$
+^wimp(y|ier|iest)$
 ^wir(y|ier|iest)$
 ^witt(y|ier|iest)$
+^wobbl(y|ier|iest)$
 ^woods(y|ier|iest)$
+^wriggl(y|ier|iest)$
+^wrinkl(y|ier|iest)$
 ^yeast(y|ier|iest)$
 ^young(er|est)?$
 ^yuck(y|ier|iest)$

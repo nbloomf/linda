@@ -5,9 +5,11 @@
 ^bring|brings|brought|bringing$
 ^build|builds|built|building$
 ^choose|chooses|chose|choosing$
+^cleave|cleaves|cleaved|cleaving|cloven$
 ^come|comes|came|coming$
 ^cut|cuts|cutting$
 ^deal|deals|dealt|dealing$
+^dig|digs|dug|digging$
 ^do|does|did|doing$
 ^draw|draws|drew|drawing|drawn$
 ^eat|eats|ate|eating|eaten$
@@ -36,8 +38,10 @@
 ^make|makes|made|making$
 ^mean|means|meant|meaning$
 ^meet|meets|met|meeting$
+^overpay|overpays|overpaid|overpaying$
 ^override|overrides|overrode|overriding|overridden$
 ^overwrite|overwrites|overwrote|overwriting|overwritten$
+^pay|pays|paid|paying$
 ^prove|proves|proved|proving|proven$
 ^read|reads|reading$
 ^rewrite|rewrites|rewrote|rewriting|rewritten$
@@ -61,6 +65,7 @@
 ^tell|tells|told|telling$
 ^think|thinks|thought|thinking$
 ^throw|throws|threw|throwing|thrown$
+^underpay|underpays|underpaid|underpaying$
 ^understand|understands|understood|understanding$
 ^wind|winds|wound|winding$
 ^write|writes|wrote|writing|written$

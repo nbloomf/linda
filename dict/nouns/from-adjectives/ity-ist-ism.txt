@@ -15,6 +15,7 @@
 ^original(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
 ^rational(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
 ^real(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
+^singular(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
 ^spiritual(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
 ^technical(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
 ^tonal(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$

@@ -41,6 +41,7 @@
 ^echo(es|ed|ing)?$
 ^embarrass(es|ed|ing)?$
 ^emboss(es|ed|ing)?$
+^engross(es|ed|ing)?$
 ^establish(es|ed|ing)?$
 ^express(es|ed|ing)?$
 ^fetch(es|ed|ing)?$
@@ -56,6 +57,7 @@
 ^fox(es|ed|ing)?$
 ^frizz(es|ed|ing)?$
 ^fuss(es|ed|ing)?$
+^gloss(es|ed|ing)?$
 ^guess(es|ed|ing)?$
 ^harass(es|ed|ing)?$
 ^harness(es|ed|ing)?$
@@ -104,6 +106,7 @@
 ^possess(es|ed|ing)?$
 ^press(es|ed|ing)?$
 ^profess(es|ed|ing)?$
+^progress(es|ed|ing)?$
 ^punch(es|ed|ing)?$
 ^push(es|ed|ing)?$
 ^reach(es|ed|ing)?$
@@ -112,6 +115,7 @@
 ^redress(es|ed|ing)?$
 ^refocus(es|ed|ing)?$
 ^refresh(es|ed|ing)?$
+^regress(es|ed|ing)?$
 ^repossess(es|ed|ing)?$
 ^repress(es|ed|ing)?$
 ^reproach(es|ed|ing)?$
@@ -119,14 +123,18 @@
 ^research(es|ed|ing)?$
 ^rush(es|ed|ing)?$
 ^sandwich(es|ed|ing)?$
+^sass(es|ed|ing)?$
 ^scratch(es|ed|ing)?$
 ^search(es|ed|ing)?$
 ^snatch(es|ed|ing)?$
+^stress(es|ed|ing)?$
 ^stretch(es|ed|ing)?$
 ^tax(es|ed|ing)?$
 ^toss(es|ed|ing)?$
 ^touch(es|ed|ing)?$
+^trespass(es|ed|ing)?$
 ^twitch(es|ed|ing)?$
+^undress(es|ed|ing)?$
 ^watch(es|ed|ing)?$
 ^whoosh(es|ed|ing)?$
 ^witness(es|ed|ing)?$

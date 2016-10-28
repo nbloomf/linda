@@ -1,6 +1,7 @@
 ^am|is|are|was|were|be|being|been$
 ^bind|binds|bound|binding$
 ^break|breaks|broke|breaking|broken$
+^breed|breeds|bred|breeding$
 ^bring|brings|brought|bringing$
 ^build|builds|built|building$
 ^choose|chooses|chose|choosing$
@@ -9,7 +10,9 @@
 ^deal|deals|dealt|dealing$
 ^do|does|did|doing$
 ^draw|draws|drew|drawing|drawn$
+^eat|eats|ate|eating|eaten$
 ^fall|falls|fell|falling|fallen$
+^feed|feeds|fed|feeding$
 ^fight|fights|fought|fighting$
 ^find|finds|found|finding$
 ^fly|flies|flew|flying|flown$
@@ -33,10 +36,12 @@
 ^make|makes|made|making$
 ^mean|means|meant|meaning$
 ^meet|meets|met|meeting$
+^override|overrides|overrode|overriding|overridden$
 ^overwrite|overwrites|overwrote|overwriting|overwritten$
 ^prove|proves|proved|proving|proven$
 ^read|reads|reading$
 ^rewrite|rewrites|rewrote|rewriting|rewritten$
+^ride|rides|rode|riding|ridden$
 ^run|runs|ran|running$
 ^seek|seeks|sought|seeking$
 ^see|sees|saw|seeing|seen$

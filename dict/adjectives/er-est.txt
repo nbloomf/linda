@@ -1,4 +1,5 @@
 ^black(er|est)?$
+^bland(er|est)?$
 ^bleak(er|est)?$
 ^blind(er|est)?$
 ^bold(er|est)?$
@@ -26,6 +27,7 @@
 ^meek(er|est)?$
 ^mild(er|est)?$
 ^new(er|est)?$
+^odd(er|est)?$
 ^old(er|est)?$
 ^pink(er|est)?$
 ^plain(er|est)?$
@@ -45,6 +47,7 @@
 ^stern(er|est)?$
 ^straight(er|est)?$
 ^strong(er|est)?$
+^stupid(er|est)?$
 ^tall(er|est)?$
 ^thick(er|est)?$
 ^tough(er|est)?$

@@ -1,0 +1,6 @@
+^fat(ter|test)?$
+^fit(ter|test)?$
+^flat(ter|test)?$
+^hot(ter|test)?$
+^squat(ter|test)?$
+^wet(ter|test)?$

@@ -1,0 +1,3 @@
+^big(ger|gest)?$
+^smug(ger|gest)?$
+^snug(ger|gest)?$

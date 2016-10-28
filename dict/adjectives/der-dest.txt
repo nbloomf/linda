@@ -1,0 +1,5 @@
+^bad(der|dest)?$
+^glad(der|dest)?$
+^mad(der|dest)?$
+^red(der|dest)?$
+^sad(der|dest)?$

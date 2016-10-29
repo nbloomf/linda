@@ -1,2 +1,0 @@
-^l(ie|ies|ied|ying)$
-^sa(y|ys|id|ying)$

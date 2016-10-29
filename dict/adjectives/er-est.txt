@@ -5,6 +5,7 @@
 ^bold(er|est)?$
 ^bright(er|est)?$
 ^broad(er|est)?$
+^brown(er|est)?$
 ^cold(er|est)?$
 ^dark(er|est)?$
 ^deep(er|est)?$
@@ -14,6 +15,7 @@
 ^fond(er|est)?$
 ^full(er|est)?$
 ^great(er|est)?$
+^green(er|est)?$
 ^gross(er|est)?$
 ^hard(er|est)?$
 ^high(er|est)?$
@@ -55,4 +57,5 @@
 ^weak(er|est)?$
 ^weird(er|est)?$
 ^wild(er|est)?$
+^yellow(er|est)?$
 ^young(er|est)?$

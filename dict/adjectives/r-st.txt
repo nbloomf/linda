@@ -1,9 +1,14 @@
 ^able(r|st)?$
+^beige(r|st)?$
+^blue(r|st)?$
 ^fine(r|st)?$
 ^hoarse(r|st)?$
 ^large(r|st)?$
 ^noble(r|st)?$
+^orange(r|st)?$
+^purple(r|st)?$
 ^simple(r|st)?$
 ^subtle(r|st)?$
 ^true(r|st)?$
+^white(r|st)?$
 ^wide(r|st)?$

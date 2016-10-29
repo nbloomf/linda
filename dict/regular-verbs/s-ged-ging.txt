@@ -13,6 +13,7 @@
 ^flag(s|ged|ging)?$
 ^flog(s|ged|ging)?$
 ^fog(s|ged|ging)?$
+^gag(s|ged|ging)?$
 ^gig(s|ged|ging)?$
 ^hog(s|ged|ging)?$
 ^hug(s|ged|ging)?$
@@ -37,4 +38,3 @@
 ^wag(s|ged|ging)?$
 ^wig(s|ged|ging)?$
 ^zigzag(s|ged|ging)?$
-^gag(s|ged|ging)?$

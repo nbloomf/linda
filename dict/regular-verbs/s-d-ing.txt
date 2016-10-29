@@ -2,8 +2,8 @@
 ^decree(s|d|ing)?$
 ^emcee(s|d|ing)?$
 ^filigree(s|d|ing)?$
+^free(s|d|ing)?$
 ^guarantee(s|d|ing)?$
+^hear(s|d|ing)?$
 ^melee(s|d|ing)?$
 ^referee(s|d|ing)?$
-^hear(s|d|ing)?$
-^free(s|d|ing)?$

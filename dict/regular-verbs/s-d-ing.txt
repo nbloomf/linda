@@ -5,3 +5,5 @@
 ^guarantee(s|d|ing)?$
 ^melee(s|d|ing)?$
 ^referee(s|d|ing)?$
+^hear(s|d|ing)?$
+^free(s|d|ing)?$

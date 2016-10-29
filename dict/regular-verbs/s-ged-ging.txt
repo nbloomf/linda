@@ -37,3 +37,4 @@
 ^wag(s|ged|ging)?$
 ^wig(s|ged|ging)?$
 ^zigzag(s|ged|ging)?$
+^gag(s|ged|ging)?$

@@ -60,6 +60,7 @@
 ^split|splits|splitting$
 ^spring|springs|sprang|springing|sprung$
 ^stand|stands|stood|standing$
+^swim|swims|swam|swimming|swum$
 ^take|takes|took|taking|taken$
 ^teach|teaches|taught|teaching$
 ^tell|tells|told|telling$

@@ -1,0 +1,10 @@
+^interchangeably$
+^irreducibly$
+^perceptably$
+^possibly$
+^preferably$
+^probably$
+^reasonably$
+^reducibly$
+^simply$
+^unbearably$

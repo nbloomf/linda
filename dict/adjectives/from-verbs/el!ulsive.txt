@@ -1,0 +1,4 @@
+^compulsive$
+^impulsive$
+^propulsive$
+^repulsive$

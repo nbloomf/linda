@@ -1,0 +1,13 @@
+^ceremonious$
+^felonious$
+^furious$
+^glorious$
+^harmonious$
+^luxurious$
+^melodious$
+^mysterious$
+^parsimonious$
+^prodigious$
+^studious$
+^usurious$
+^victorious$

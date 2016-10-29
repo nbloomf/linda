@@ -1,0 +1,10 @@
+^dreadful$
+^gleeful$
+^graceful$
+^grateful$
+^hateful$
+^healthful$
+^neglectful$
+^playful$
+^watchful$
+^willful$

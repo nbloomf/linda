@@ -1,0 +1,13 @@
+^annoying$
+^charming$
+^condescending$
+^disgusting$
+^engrossing$
+^enthralling$
+^interesting$
+^jeering$
+^mocking$
+^resounding$
+^revolting$
+^staggering$
+^willing$

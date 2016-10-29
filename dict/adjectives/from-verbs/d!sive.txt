@@ -1,0 +1,3 @@
+^apprehensive$
+^offensive$
+^responsive$

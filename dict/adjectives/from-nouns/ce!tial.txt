@@ -1,0 +1,15 @@
+^circumstantial$
+^confidential$
+^consequential$
+^credential$
+^deferential$
+^essential$
+^inferential$
+^influential$
+^palatial$
+^providential$
+^prudential$
+^referential$
+^residential$
+^sequential$
+^substantial$

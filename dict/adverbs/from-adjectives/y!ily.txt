@@ -1,6 +1,6 @@
-^unnecessarily$
 ^arbitrarily$
 ^easily$
 ^necessarily$
 ^ordinarily$
 ^primarily$
+^unnecessarily$

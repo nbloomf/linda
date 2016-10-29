@@ -1,0 +1,5 @@
+^available$
+^comfortable$
+^interchangeable$
+^preferable$
+^reasonable$

@@ -1,0 +1,8 @@
+^amusing$
+^captivating$
+^fascinating$
+^grudging$
+^inquiring$
+^loving$
+^piercing$
+^striking$

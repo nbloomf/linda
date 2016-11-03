@@ -1,0 +1,13 @@
+^certifiable$
+^classifiable$
+^deniable$
+^enviable$
+^falsifiable$
+^identifiable$
+^justifiable$
+^modifiable$
+^pitiable$
+^rectifiable$
+^remediable$
+^specifiable$
+^verifiable$

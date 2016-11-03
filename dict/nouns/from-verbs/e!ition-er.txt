@@ -1,4 +1,8 @@
+^compet(ition|er)(s|'s|s')?$
 ^compos(ition|er)(s|'s|s')?$
 ^decompos(ition|er)(s|'s|s')?$
 ^defin(ition|er)(s|'s|s')?$
+^impos(ition|er)(s|'s|s')?$
+^juxtapos(ition|er)(s|'s|s')?$
 ^propos(ition|er)(s|'s|s')?$
+^suppos(ition|er)(s|'s|s')?$

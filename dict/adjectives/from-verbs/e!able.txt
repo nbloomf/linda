@@ -1,0 +1,12 @@
+^comparable$
+^configurable$
+^curable$
+^derivable$
+^determinable$
+^locatable$
+^pleasurable$
+^recognizable$
+^reconcilable$
+^recyclable$
+^relocatable$
+^valuable$

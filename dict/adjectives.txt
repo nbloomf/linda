@@ -94,6 +94,7 @@
 ^coincidental$
 ^cold$
 ^collective$
+^collinear$
 ^colloquial$
 ^colorful$
 ^colossal$
@@ -120,7 +121,9 @@
 ^continual$
 ^convenient$
 ^converse$
+^convex$
 ^cool$
+^coplanar$
 ^cordial$
 ^critical$
 ^crucial$
@@ -144,11 +147,13 @@
 ^demented$
 ^demure$
 ^dense$
+^dependent$
 ^deserved$
 ^desolate$
 ^devoted$
 ^devout$
 ^different$
+^difficult$
 ^diligent$
 ^dim$
 ^diplomatic$
@@ -168,8 +173,10 @@
 ^elder$
 ^electronic$
 ^elegant$
+^elementary$
 ^enormous$
 ^equal$
+^equiangular$
 ^equivalent$
 ^even$
 ^eventful$

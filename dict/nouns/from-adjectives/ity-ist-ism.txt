@@ -1,3 +1,4 @@
+^absurd(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
 ^brutal(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
 ^cardinal(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$
 ^commercial(it(y|ies|y's|ies')|ist(s|'s|s')?|ism(s|'s|s')?)$

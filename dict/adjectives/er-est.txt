@@ -7,6 +7,7 @@
 ^broad(er|est)?$
 ^brown(er|est)?$
 ^cold(er|est)?$
+^dank(er|est)?$
 ^dark(er|est)?$
 ^deep(er|est)?$
 ^dull(er|est)?$

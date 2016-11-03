@@ -443,7 +443,6 @@
 ^projection(s|'s|s')?$
 ^proof(s|'s|s')?$
 ^propert(y|ies|y's|ies')$
-^proposal(s|'s|s')?$
 ^provocation(s|'s|s')?$
 ^punchline(s|'s|s')?$
 ^quadrilateral(s|'s|s')?$

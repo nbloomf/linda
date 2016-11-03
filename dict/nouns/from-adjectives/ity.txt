@@ -1,0 +1,14 @@
+^convexit(y|ies|y's|ies')$
+^orthogonalit(y|ies|y's|ies')$
+^placidit(y|ies|y's|ies')$
+^plasticit(y|ies|y's|ies')$
+^popularit(y|ies|y's|ies')$
+^proportionalit(y|ies|y's|ies')$
+^publicit(y|ies|y's|ies')$
+^regularit(y|ies|y's|ies')$
+^superiorit(y|ies|y's|ies')$
+^taciturnit(y|ies|y's|ies')$
+^timidit(y|ies|y's|ies')$
+^torpidit(y|ies|y's|ies')$
+^vitalit(y|ies|y's|ies')$
+^whimsicalit(y|ies|y's|ies')$

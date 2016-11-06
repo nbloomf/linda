@@ -1,0 +1,4 @@
+^dutiless$
+^merciless$
+^pitiless$
+^unmerciless$

@@ -1,3 +1,7 @@
 ^bountiful$
 ^fanciful$
 ^plentiful$
+^dutiful$
+^merciful$
+^pitiful$
+^unmerciful$

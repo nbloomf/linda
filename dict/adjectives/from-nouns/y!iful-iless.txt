@@ -1,4 +1,0 @@
-^dut(iful|iless)$
-^merc(iful|iless)$
-^pit(iful|iless)$
-^unmerc(iful|iless)$

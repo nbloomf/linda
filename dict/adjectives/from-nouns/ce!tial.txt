@@ -3,6 +3,7 @@
 ^consequential$
 ^credential$
 ^deferential$
+^differential$
 ^essential$
 ^inferential$
 ^influential$

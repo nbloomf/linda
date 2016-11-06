@@ -19,11 +19,13 @@
 ^air(s|ed|ing)?$
 ^alarm(s|ed|ing)?$
 ^allow(s|ed|ing)?$
+^alloy(s|ed|ing)?$
 ^amend(s|ed|ing)?$
 ^amount(s|ed|ing)?$
 ^anoint(s|ed|ing)?$
 ^appear(s|ed|ing)?$
 ^arm(s|ed|ing)?$
+^array(s|ed|ing)?$
 ^ascend(s|ed|ing)?$
 ^ask(s|ed|ing)?$
 ^assert(s|ed|ing)?$
@@ -63,6 +65,7 @@
 ^brainstorm(s|ed|ing)?$
 ^brood(s|ed|ing)?$
 ^bump(s|ed|ing)?$
+^buoy(s|ed|ing)?$
 ^burn(s|ed|ing)?$
 ^butcher(s|ed|ing)?$
 ^button(s|ed|ing)?$
@@ -105,6 +108,7 @@
 ^contract(s|ed|ing)?$
 ^contradict(s|ed|ing)?$
 ^convey(s|ed|ing)?$
+^convoy(s|ed|ing)?$
 ^cook(s|ed|ing)?$
 ^coopt(s|ed|ing)?$
 ^cord(s|ed|ing)?$
@@ -128,6 +132,7 @@
 ^deliver(s|ed|ing)?$
 ^demand(s|ed|ing)?$
 ^depend(s|ed|ing)?$
+^deploy(s|ed|ing)?$
 ^descend(s|ed|ing)?$
 ^design(s|ed|ing)?$
 ^destroy(s|ed|ing)?$
@@ -182,6 +187,7 @@
 ^fork(s|ed|ing)?$
 ^form(s|ed|ing)?$
 ^forward(s|ed|ing)?$
+^fray(s|ed|ing)?$
 ^frighten(s|ed|ing)?$
 ^frown(s|ed|ing)?$
 ^gain(s|ed|ing)?$
@@ -246,9 +252,12 @@
 ^invest(s|ed|ing)?$
 ^jerk(s|ed|ing)?$
 ^jest(s|ed|ing)?$
+^jockey(s|ed|ing)?$
 ^join(s|ed|ing)?$
+^journey(s|ed|ing)?$
 ^jump(s|ed|ing)?$
 ^keyboard(s|ed|ing)?$
+^key(s|ed|ing)?$
 ^kick(s|ed|ing)?$
 ^knead(s|ed|ing)?$
 ^knock(s|ed|ing)?$
@@ -288,6 +297,8 @@
 ^mind(s|ed|ing)?$
 ^moan(s|ed|ing)?$
 ^mold(s|ed|ing)?$
+^monkey(s|ed|ing)?$
+^mosey(s|ed|ing)?$
 ^mother(s|ed|ing)?$
 ^motion(s|ed|ing)?$
 ^motor(s|ed|ing)?$
@@ -324,6 +335,7 @@
 ^overcrowd(s|ed|ing)?$
 ^overextend(s|ed|ing)?$
 ^overpower(s|ed|ing)?$
+^overstay(s|ed|ing)?$
 ^own(s|ed|ing)?$
 ^pack(s|ed|ing)?$
 ^paint(s|ed|ing)?$
@@ -354,6 +366,7 @@
 ^point(s|ed|ing)?$
 ^ponder(s|ed|ing)?$
 ^portend(s|ed|ing)?$
+^portray(s|ed|ing)?$
 ^post(s|ed|ing)?$
 ^pound(s|ed|ing)?$
 ^pour(s|ed|ing)?$
@@ -392,6 +405,7 @@
 ^recommend(s|ed|ing)?$
 ^reconsider(s|ed|ing)?$
 ^recover(s|ed|ing)?$
+^redeploy(s|ed|ing)?$
 ^reflect(s|ed|ing)?$
 ^refund(s|ed|ing)?$
 ^regard(s|ed|ing)?$
